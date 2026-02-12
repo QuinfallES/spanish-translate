@@ -363,7 +363,7 @@
 	<Text key="512">Esta variante de poción aún no ha caducado.</Text>
 
 	<Text key="521">Robe</Text>
-	<Text key="522">Ligera</Text>
+	<Text key="522">Media</Text>
 	<Text key="523">Pesado</Text>
 	<Text key="524">Ninguna</Text>
 
@@ -1272,11 +1272,11 @@ Mata al primer enemigo con métodos de ataque básico.</Text>
 	<Text key="1443">Poder Físico:</Text>
 	<Text key="1444">Velocidad de Ataque:</Text>
 	<Text key="1445">Daño Mágico:</Text>
-	<Text key="1446">Poder Mágico:</Text>
+	<Text key="1446">Res. Mágica:</Text>
 	<Text key="1447">Velocidad de Lanzamiento:</Text>
 	<Text key="1448">Precisión:</Text>
 	<Text key="1449">Evasión:</Text>
-	<Text key="1450">Velocidad de Movimiento:</Text>
+	<Text key="1450">Vel.Movimiento:</Text>
 	<Text key="1451">Regeneración de HP:</Text>
 	<Text key="1452">Regeneración de PM:</Text>
 	<Text key="1453">Daño extra a monstruos:</Text>
@@ -1292,7 +1292,7 @@ Mata al primer enemigo con métodos de ataque básico.</Text>
 	<Text key="1463">Puntos Físicos AP</Text>
 	<Text key="1464">Daño Mágico</Text>
 	<Text key="1465">DP Físico</Text>
-	<Text key="1466">Poder Mágico</Text>
+	<Text key="1466">Res. Mágica</Text>
 	<Text key="1467">Penalización por sobrepeso</Text>
 	<Text key="1468">%50 Lento.</Text>
 	<Text key="1469">Viaje rápido/Portal no disponible.</Text>
@@ -2242,7 +2242,7 @@ Ten en cuenta que los objetos almacenados aquí se destruirán por completo al c
 	<Text key="2390">Defensa PVP Extra:</Text>
 	<Text key="2391">Efectividad de Curación:</Text>
 	<Text key="2392">Daño Crítico:</Text>
-	<Text key="2393">Probabilidad de Crítico:</Text>
+	<Text key="2393">Prob.Crit:</Text>
 	<Text key="2394">Resistencia a Golpes Críticos:</Text>
 	<Text key="2395">Drakkmorn Hollow, antes el orgullo del reino enano, ahora yace maldito; sus forjas están silenciadas y sus salones solo resuenan con los gritos de los condenados. Un pacto oscuro, sellado en la desesperación, liberó a antiguos espíritus de fuego que convirtieron a los maestros herreros en cascarones de furia fundida. La lava ahora recorre la piedra como si fuera sangre, y los rostros tallados en los acantilados observan en silencio a los intrusos que se atreven a entrar. Pocos se aventuran en Hollow. Ninguno regresa siendo el mismo.</Text>
 	<Text key="2396">Oculto bajo la corteza oceánica, el Abyssora Sanctum es un templo sagrado submarino que alguna vez se creyó perdido en el tiempo. Flora luminosa, antiguas columnas de piedra y una estatua de un guardián eterno marcan el corazón de este dominio olvidado. Susurros de magia antigua y poder cósmico resuenan por sus cámaras; solo los valientes o los insensatos se atreven a entrar, buscando reliquias o despertando lo que ha estado dormido por siglos.</Text>
@@ -2707,7 +2707,7 @@ Demasiado tarde.</Text>
 	<Text key="2842">Debes tener al menos nivel 50 para esto.</Text>
 	<Text key="2843">Ruleta de Premios de la Armadura de la Dinastía</Text>
 	<Text key="2844">Daño crítico:</Text>
-	<Text key="2845">Probabilidad de Crítico:</Text>
+	<Text key="2845">Prob.Crit:</Text>
 	<Text key="2846">Cuando se obtiene una armadura, esta ruleta se desactiva.</Text>
 	<Text key="2847">Si las conexiones desde algunas regiones son débiles o no es posible conectarse, puede conectarse al servidor principal a través de otra región. Tenga en cuenta que conectarse indirectamente desde otros países puede causar latencia adicional.</Text>
 
@@ -3217,9 +3217,9 @@ Demasiado tarde.</Text>
 
 
 	<Text key="49001">Puntos Físicos AP</Text>
-	<Text key="49002">PJ Físico</Text>
+	<Text key="49002">Defensa física</Text>
 	<Text key="49003">Magia AP</Text>
-	<Text key="49004">Poder Mágico</Text>
+	<Text key="49004">Res. Mágica</Text>
 	<Text key="49005">HP</Text>
 	<Text key="49006">MP</Text>
 	<Text key="49007">Regeneración HP</Text>
@@ -3268,7 +3268,7 @@ Demasiado tarde.</Text>
 	<Text key="49048">Recurso valioso</Text>
 	<Text key="49049">Nivel de Profesión</Text>
 
-	<Text key="49050">Probabilidad de Crítico</Text>
+	<Text key="49050">Prob.Crit</Text>
 	<Text key="49051">Resistencia a Golpes Críticos</Text>
 	<Text key="49052">Multiplicador Crítico</Text>
 	<Text key="49053">Efectividad de Curación</Text>
@@ -7221,7 +7221,7 @@ Demasiado tarde.</Text>
 	<Text key="4117010">Creas un poderoso torbellino de viento en el área seleccionada, atrayendo a todos los enemigos dentro del rango hacia el centro y causando un 140% de daño mágico. Los objetivos atrapados se ralentizan un 70% durante 2 segundos. {0}{1}Cada punto adicional inflige un 8% de daño mágico extra al enemigo.{2}</Text>
 	<Text key="4117020">Invocas una criatura de fuego que emerge rápidamente desde el subsuelo. La criatura inflige un 100% de daño mágico a todos los enemigos frente a ella y los derriba, dejándolos incapacitados por un corto tiempo. {0}{1}Cada punto adicional inflige un 8% de daño mágico extra al enemigo.{2}</Text>
 	<Text key="4117030">Manipulas el elemento fuego del cielo para invocar un meteorito gigantesco que impacta en la zona objetivo, causando una explosión devastadora que inflige un 100% de daño mágico en un área amplia. Además, aturde por 1 segundo y aplica un efecto de quemadura que inflige un 30% de daño mágico por segundo durante 2 segundos. {0}{1}Cada punto adicional inflige un 14% de daño mágico extra al enemigo.{2}</Text>
-	<Text key="4117040">Congelas el área seleccionada con intensa energía de hielo, infligiendo un 140% de daño mágico y congelando a todos los enemigos durante 2 segundos. Los enemigos congelados no pueden moverse ni usar habilidades. Si el Elementalista se ve afectado por su propio hechizo, no puede moverse pero no recibe daño y se cura un 100% de su Poder Mágico por segundo. {0}{1}Cada punto adicional inflige un 9% de daño mágico extra al enemigo.{2}</Text>
+	<Text key="4117040">Congelas el área seleccionada con intensa energía de hielo, infligiendo un 140% de daño mágico y congelando a todos los enemigos durante 2 segundos. Los enemigos congelados no pueden moverse ni usar habilidades. Si el Elementalista se ve afectado por su propio hechizo, no puede moverse pero no recibe daño y se cura un 100% de su Daño Mágico por segundo. {0}{1}Cada punto adicional inflige un 9% de daño mágico extra al enemigo.{2}</Text>
 	<Text key="4117050">Invocas esqueletos que emergen del suelo y corren en la dirección seleccionada. Al golpear a un enemigo, explotan e infligen un 150% de daño mágico, dejando un efecto que quema al objetivo durante 3 segundos, causando un daño equivalente al 0.5% de tu salud máxima por segundo. {0}{1}Cada punto adicional inflige un 16% de daño mágico extra al enemigo.{2}</Text>
 	<Text key="4117060">Invocas caballos malditos que avanzan rápidamente en línea recta, infligiendo un 160% de daño mágico a todos los enemigos en su camino. El rastro de fuego que dejan inflige un 10% de daño mágico por segundo a los enemigos dentro y los inmoviliza durante 1.5 segundos. {0}{1}Cada punto adicional inflige un 15% de daño mágico extra al enemigo.{2}</Text>
 	<Text key="4117070">Descargas un poderoso rayo en el área seleccionada, infligiendo un 180% de daño mágico a los enemigos. {0}{1}Cada punto adicional inflige un 10% de daño mágico extra al enemigo.{2}</Text>
@@ -7256,7 +7256,7 @@ Demasiado tarde.</Text>
 	<Text key="4119080">Se vuelve etéreo durante 3.5 s, siendo inmune al daño y sanando a los aliados cercanos y a ti mismo un 50%. {0}{1}Cada punto aumenta la curación un 1%.{2}</Text>
 	<Text key="4119090">Aplicas un escudo del 100% a ti mismo y a los aliados cercanos; todos los afectados por este efecto obtienen Bendición. {0}{1}Cada punto añadido otorga un 4% de escudo adicional.{2}</Text>
 	<Text key="4119100">Invocas un círculo de luz que avanza hacia adelante; este círculo de movimiento lento inflige un 100% de daño mágico a los enemigos que toca y los ralentiza un 30% durante 2 segundos, mientras que a los aliados y a ti mismo que lo atraviesan les otorga un escudo del 70%, aumenta la Velocidad de Movimiento un 30% durante 2 segundos y concede Bendición. {0}{1}Cada punto añadido aumenta en un 4% el daño neto infligido a los enemigos y en un 1% la cantidad neta de escudo.{2}</Text>
-	<Text key="4119110">Invoca un espíritu que ralentiza a los enemigos un 50% durante 1.5 s; después de 2 s, explota causando daño verdadero igual al 75% de tu poder mágico y aturdiendo enemigos 1.5 s, sanando a los aliados un 75%. {0}{1}Cada punto aumenta el daño verdadero un 5% y la curación un 1%.{2}</Text>
+	<Text key="4119110">Invoca un espíritu que ralentiza a los enemigos un 50% durante 1.5 s; después de 2 s, explota causando daño verdadero igual al 75% de tu daño mágico y aturdiendo enemigos 1.5 s, sanando a los aliados un 75%. {0}{1}Cada punto aumenta el daño verdadero un 5% y la curación un 1%.{2}</Text>
 	<Text key="4119120">Crea un campo de purificación que elimina efectos negativos de los aliados. Los aliados dentro ganan +30% de velocidad, +300% de regeneración de HP y son curados un 30% por segundo durante 5 s. La curación sobrante se convierte en escudo. {0}{1}Cada punto aumenta la curación un 0.5%.{2}</Text>
 
 
