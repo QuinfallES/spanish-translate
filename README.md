@@ -6,10 +6,9 @@ MMORPG de mundo abierto.
 Nuestro objetivo es ofrecer una localización de alta calidad que mejore
 la experiencia de la comunidad hispanohablante mediante:
 
--   🗡️ Traducciones fieles al lore y al tono original\
--   📖 Mejora de misiones, habilidades y descripciones\
--   🖥️ Optimización de textos de interfaz y sistemas\
--   🔎 Corrección de incoherencias y textos sin traducir\
+-   📖 Mejora de misiones, habilidades y descripciones
+-   🖥️ Optimización de textos de interfaz y sistemas
+-   🔎 Corrección de incoherencias y textos sin traducir
 -   🧩 Terminología consistente en todo el juego
 
 Buscamos una experiencia **natural, inmersiva y profesional**, no una
