@@ -2710,6 +2710,7 @@ Demasiado tarde.</Text>
 	<Text key="2845">Prob.Crit:</Text>
 	<Text key="2846">Cuando se obtiene una armadura, esta ruleta se desactiva.</Text>
 	<Text key="2847">Si las conexiones desde algunas regiones son débiles o no es posible conectarse, puede conectarse al servidor principal a través de otra región. Tenga en cuenta que conectarse indirectamente desde otros países puede causar latencia adicional.</Text>
+	<Text key="2848">Para evitar una derrota automática, al menos 6 jugadores deben entrar al campo de batalla.</Text>
 
 
 
