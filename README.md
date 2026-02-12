@@ -99,9 +99,9 @@ Si no:
 
 Si encuentras:
 
--   Textos mal traducidos\
--   Errores gramaticales\
--   Incoherencias de terminología\
+-   Textos mal traducidos
+-   Errores gramaticales
+-   Incoherencias de terminología
 -   Frases que suenen poco naturales
 
 Puedes abrir un **Issue** o contactarme directamente.
