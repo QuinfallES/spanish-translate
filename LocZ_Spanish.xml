@@ -41,7 +41,7 @@
 	<Text key="38">Esta habilidad aún está en enfriamiento.</Text>
 	<Text key="39">No puedes usar esta habilidad con este tipo de arma.</Text>
 	<Text key="40">No tienes puntos en esta habilidad.</Text>
-	<Text key="41">Puntos de estadísticas no utilizados</Text>
+	<Text key="41">Puntos de estadística sin asignar</Text>
 	<Text key="42">Has hecho {0} puntos de daño físico al enemigo.</Text>
 	<Text key="43">Has hecho {0} de daño físico crítico al enemigo.</Text>
 	<Text key="44">No tienes suficiente resistencia disponible.</Text>
@@ -54,17 +54,17 @@
 	<Text key="51">El enemigo te ha infligido {0} puntos de daño mágico.</Text>
 	<Text key="52">El enemigo te ha hecho {0} de daño físico CRÍTICO.</Text>
 	<Text key="53">El enemigo te ha infligido {0} de daño mágico CRÍTICO.</Text>
-	<Text key="54">No hay suficientes PM para usar esta habilidad.</Text>
+	<Text key="54">No tienes suficiente mana (PM) para usar esta habilidad.</Text>
 	<Text key="55">{1} te ha infligido {0} de daño físico.</Text>
 	<Text key="56">{1} te ha infligido {0} de daño mágico.</Text>
-	<Text key="57">{1} te ha infligido {0} daño físico CRÍTICO.</Text>
-	<Text key="58">{1} te ha infligido {0} daño mágico CRÍTICO.</Text>
+	<Text key="57">{1} te ha infligido {0} daño físico crítico.</Text>
+	<Text key="58">{1} te ha infligido {0} daño mágico crítico.</Text>
 	<Text key="59">No has podido infligir daño al objetivo.</Text>
 	<Text key="60">Has fallado al objetivo.</Text>
 	<Text key="61">El enemigo no ha podido infligirte ningún daño.</Text>
 	<Text key="62">El enemigo te ha fallado.</Text>
-	<Text key="63">{1} no ha podido infligirte ningún daño.</Text>
-	<Text key="64">{1} te falló.</Text>
+	<Text key="63">{1} falló y no te causó daño.</Text>
+	<Text key="64">{1} ha fallado.</Text>
 	<Text key="65">Necesitas una flecha.</Text>
 	<Text key="66">Hablar</Text>
 	<Text key="67">Usar</Text>
@@ -76,7 +76,7 @@
 	<Text key="73">Tu inventario está lleno.</Text>
 	<Text key="74">Planta</Text>
 	<Text key="75">Roca</Text>
-	<Text key="76">Agua Dulce</Text>
+	<Text key="76">Agua dulce</Text>
 	<Text key="77">Agua salada</Text>
 	<Text key="78">Pesca</Text>
 	<Text key="79">Tomar Agua</Text>
@@ -362,8 +362,8 @@
 	<Text key="511">Esta poción no está en tu inventario.</Text>
 	<Text key="512">Esta variante de poción aún no ha caducado.</Text>
 
-	<Text key="521">Robe</Text>
-	<Text key="522">Ligera</Text>
+	<Text key="521">Ligera</Text>
+	<Text key="522">Media</Text>
 	<Text key="523">Pesado</Text>
 	<Text key="524">Ninguna</Text>
 
@@ -448,7 +448,7 @@
 	<Text key="634">Greis</Text>
 	<Text key="635">Viajero</Text>
 	<Text key="636">Kreas</Text>
-	<Text key="637">Nueva Búsqueda</Text>
+	<Text key="637">Nueva Misión</Text>
 	<Text key="638">La petición de Greis.</Text>
 	<Text key="639">Sólo Viajero.</Text>
 	<Text key="640">La petición de Kreas.</Text>
@@ -576,13 +576,13 @@
 	<Text key="781">+10% Resistencia máxima</Text>
 	<Text key="782">+2% Probabilidad de Crítico</Text>
 	<Text key="783">+2% Daño Extra al Jefe</Text>
-	<Text key="784">+2% Daño Extra a Mob</Text>
+	<Text key="784">+2% Daño Extra a monstruos</Text>
 	<Text key="791">+5% Puntos PVP</Text>
 	<Text key="792">+5% Puntos PVE</Text>
 	<Text key="801">Tus comentarios han sido enviados. Gracias.</Text>
 	<Text key="802">Mercado Central</Text>
 	<Text key="803">Estás muy lejos del dependiente de la tienda de comestibles.</Text>
-	<Text key="804">Junta de Búsqueda</Text>
+	<Text key="804">Cartel de Misiones</Text>
 	<Text key="805">Actualizaciones</Text>
 	<Text key="806">Condiciones de uso</Text>
 	<Text key="807">Política de privacidad</Text>
@@ -995,7 +995,7 @@ Si lo confirmas, todos tus edificios, todos los objetos conectados y todos los o
 	<Text key="1186">+10% Resistencia máxima</Text>
 	<Text key="1187">+2% Probabilidad de Crítico</Text>
 	<Text key="1188">+2% Daño Extra al Jefe</Text>
-	<Text key="1189">+2% Daño Extra a Mob</Text>
+	<Text key="1189">+2% Daño Extra a monstruos</Text>
 	<Text key="1190">+5% Puntos PVP</Text>
 	<Text key="1191">+5% Punto PVE</Text>
 	<Text key="1192">Elige Biom</Text>
@@ -1133,8 +1133,8 @@ Mata al primer enemigo con métodos de ataque básico.</Text>
 	<Text key="1304">Total de muertes que le has hecho a la grieta del cielo.</Text>
 	<Text key="1305">Has entrado en la zona segura.</Text>
 	<Text key="1306">Has salido de la zona segura.</Text>
-	<Text key="1307">Búsqueda completada</Text>
-	<Text key="1308">Búsqueda</Text>
+	<Text key="1307">Misión completada</Text>
+	<Text key="1308">Misiones</Text>
 	<Text key="1309">Puedes seguir el Minimapa aqui. Puedes reubicarlo, ajustar su transparencia y cambiar su tamaño.</Text>
 	<Text key="1310">Puedes seguir puntos designados, waypoints de misión, ubicaciones de objetivos relacionados con la profesión y otras cosas desde aquí junto con sus distancias restantes.</Text>
 	<Text key="1311">El menú principal y los ajustes del juego se encuentran aquí.</Text>
@@ -1187,14 +1187,14 @@ Mata al primer enemigo con métodos de ataque básico.</Text>
 	<Text key="1358">Habilidades de vida</Text>
 	<Text key="1359">Clan</Text>
 	<Text key="1360">Mascotas</Text>
-	<Text key="1361">Montas</Text>
+	<Text key="1361">Monturas</Text>
 	<Text key="1362">Barcos</Text>
 	<Text key="1363">Casa alquilada</Text>
 	<Text key="1364">Granja arrendada</Text>
 	<Text key="1365">Altar</Text>
 	<Text key="1366">Construcciones</Text>
 	<Text key="1367">Trabajadores</Text>
-	<Text key="1368">Búsqueda</Text>
+	<Text key="1368">Misiones</Text>
 	<Text key="1369">Mazo de cartas</Text>
 	<Text key="1370">Mercado Central</Text>
 	<Text key="1371">Mapa del Mundo</Text>
@@ -1266,33 +1266,33 @@ Mata al primer enemigo con métodos de ataque básico.</Text>
 	<Text key="1437">Nivel:</Text>
 	<Text key="1438">Fiabilidad:</Text>
 	<Text key="1439">Combate</Text>
-	<Text key="1440">Grado:</Text>
+	<Text key="1440">Poder de Combate:</Text>
 	<Text key="1441">Peso de Armadura:</Text>
-	<Text key="1442">Físico AP:</Text>
-	<Text key="1443">PP Físico:</Text>
-	<Text key="1444">Atk. Speed:</Text>
-	<Text key="1445">Puntos de ataque mágicos:</Text>
-	<Text key="1446">DP Mágico:</Text>
+	<Text key="1442">Daño Físico:</Text>
+	<Text key="1443">Defensa Fisica:</Text>
+	<Text key="1444">Velocidad de Ataque:</Text>
+	<Text key="1445">Daño Mágico:</Text>
+	<Text key="1446">Res. Mágica:</Text>
 	<Text key="1447">Velocidad de Lanzamiento:</Text>
 	<Text key="1448">Precisión:</Text>
 	<Text key="1449">Evasión:</Text>
-	<Text key="1450">Velocidad de carrera:</Text>
+	<Text key="1450">Vel.Movimiento:</Text>
 	<Text key="1451">Regeneración de HP:</Text>
-	<Text key="1452">Regeneración de PS:</Text>
-	<Text key="1453">Daño extra a Mob:</Text>
-	<Text key="1454">Daño extra al jefe:</Text>
-	<Text key="1455">Defensa extra a Mob:</Text>
-	<Text key="1456">Defensa extra al jefe:</Text>
+	<Text key="1452">Regeneración de PM:</Text>
+	<Text key="1453">Daño extra a monstruos:</Text>
+	<Text key="1454">Daño extra contra bosses:</Text>
+	<Text key="1455">Defensa extra vs. monstruos</Text>
+	<Text key="1456">Defensa extra contra boss:</Text>
 	<Text key="1457">Estadísticas</Text>
 	<Text key="1458">Aquí puedes ver las estadísticas de tu personaje.</Text>
 	<Text key="1459">Peso</Text>
-	<Text key="1460">Grado</Text>
+	<Text key="1460">Poder de Combate</Text>
 	<Text key="1461">Precio de Venta</Text>
 	<Text key="1462">Durabilidad</Text>
 	<Text key="1463">Puntos Físicos AP</Text>
-	<Text key="1464">Puntos de ataque mágicos</Text>
+	<Text key="1464">Daño Mágico</Text>
 	<Text key="1465">DP Físico</Text>
-	<Text key="1466">DP Mágico</Text>
+	<Text key="1466">Res. Mágica</Text>
 	<Text key="1467">Penalización por sobrepeso</Text>
 	<Text key="1468">%50 Lento.</Text>
 	<Text key="1469">Viaje rápido/Portal no disponible.</Text>
@@ -1302,9 +1302,9 @@ Mata al primer enemigo con métodos de ataque básico.</Text>
 	<Text key="1473">Borrar</Text>
 	<Text key="1474">Borrar</Text>
 	<Text key="1475">Aquí puedes ver los objetos que has obtenido. Puedes equipar los objetos que quieras haciendo clic con el botón derecho o arrastrándolos.</Text>
-	<Text key="1476">Armadura Pesada</Text>
-	<Text key="1477">Armadura Ligera</Text>
-	<Text key="1478">Armadura de Robe</Text>
+	<Text key="1476">Pesada</Text>
+	<Text key="1477">Media</Text>
+	<Text key="1478">Ligera</Text>
 	<Text key="1479">Muebles</Text>
 	<Text key="1480">Poner</Text>
 	<Text key="1481">Rueda: Girar</Text>
@@ -1324,7 +1324,7 @@ Mata al primer enemigo con métodos de ataque básico.</Text>
 	<Text key="1495">Recursos:</Text>
 	<Text key="1496">Recursos</Text>
 	<Text key="1497">Cantidad:</Text>
-	<Text key="1498">Grado Potensital:</Text>
+	<Text key="1498">Poder de Combate:</Text>
 	<Text key="1499">Artesanía...</Text>
 	<Text key="1500">Cantidad restante:</Text>
 	<Text key="1501">Tiempo para terminar</Text>
@@ -1486,8 +1486,8 @@ El cofre del tesoro que encuentres en las salas del tesoro te proporciona objeto
 	<Text key="1655">Moneda Total en los Depósitos</Text>
 	<Text key="1656">Depósito</Text>
 	<Text key="1657">Retirar</Text>
-	<Text key="1658">Nueva Búsqueda</Text>
-	<Text key="1659">Búsqueda:</Text>
+	<Text key="1658">Nueva Misión</Text>
+	<Text key="1659">Misión:</Text>
 	<Text key="1660">Descripción:</Text>
 	<Text key="1661">Resumen:</Text>
 	<Text key="1662">Recompensas:</Text>
@@ -1662,7 +1662,7 @@ Ten en cuenta que los objetos almacenados aquí se destruirán por completo al c
 	<Text key="1821">Central</Text>
 	<Text key="1822">Cantidad</Text>
 	<Text key="1823">TAX</Text>
-	<Text key="1824">Grado</Text>
+	<Text key="1824">Poder de Combate</Text>
 	<Text key="1825">Precio</Text>
 	<Text key="1826">No se ha encontrado ningún producto.</Text>
 	<Text key="1827">Últimas ventas</Text>
@@ -2240,10 +2240,10 @@ Ten en cuenta que los objetos almacenados aquí se destruirán por completo al c
 	<Text key="2388">Total de transacciones:</Text>
 	<Text key="2389">Daño PVP Extra:</Text>
 	<Text key="2390">Defensa PVP Extra:</Text>
-	<Text key="2391">Multiplicador de Curación:</Text>
-	<Text key="2392">Multiplicador de Daño Crítico:</Text>
-	<Text key="2393">Probabilidad de Golpe Crítico:</Text>
-	<Text key="2394">Probabilidad de Defensa Crítica:</Text>
+	<Text key="2391">Efectividad de Curación:</Text>
+	<Text key="2392">Daño Crítico:</Text>
+	<Text key="2393">Prob.Crit:</Text>
+	<Text key="2394">Resistencia a Golpes Críticos:</Text>
 	<Text key="2395">Drakkmorn Hollow, antes el orgullo del reino enano, ahora yace maldito; sus forjas están silenciadas y sus salones solo resuenan con los gritos de los condenados. Un pacto oscuro, sellado en la desesperación, liberó a antiguos espíritus de fuego que convirtieron a los maestros herreros en cascarones de furia fundida. La lava ahora recorre la piedra como si fuera sangre, y los rostros tallados en los acantilados observan en silencio a los intrusos que se atreven a entrar. Pocos se aventuran en Hollow. Ninguno regresa siendo el mismo.</Text>
 	<Text key="2396">Oculto bajo la corteza oceánica, el Abyssora Sanctum es un templo sagrado submarino que alguna vez se creyó perdido en el tiempo. Flora luminosa, antiguas columnas de piedra y una estatua de un guardián eterno marcan el corazón de este dominio olvidado. Susurros de magia antigua y poder cósmico resuenan por sus cámaras; solo los valientes o los insensatos se atreven a entrar, buscando reliquias o despertando lo que ha estado dormido por siglos.</Text>
 	<Text key="2397">Encaramado en una cresta helada bajo un cielo pálido y sin estrellas, Gravemourn Keep es más que un cementerio: es una prisión para los condenados. Las almas de reyes olvidados, caballeros traicionados y herejes inquietos vagan por estas tierras, atadas a huesos enterrados bajo piedra congelada. Aquí los muertos no duermen. Susurran, siguen, recuerdan. Cada paso en la escalera rota es una prueba para tu cordura, y en la cima espera algo que nunca debió ser despertado.</Text>
@@ -2255,14 +2255,14 @@ Ten en cuenta que los objetos almacenados aquí se destruirán por completo al c
 	<Text key="2403">Esta armadura única, forjada a partir de un Fragmento de Armadura Antigua, solo pertenece a quienes han derrotado a los jefes mundiales más poderosos. Según la leyenda, estas armaduras están fortalecidas por los espíritus de guerreros que desafiaron el paso del tiempo. Cada detalle lleva las huellas de siglos de artesanía. Quien la lleva no es solo un guerrero, sino la continuación viviente de una leyenda.</Text>
 	<Text key="2404">¡Felicidades! Puedes reclamar tu recompensa de Twitch Drops desde tu almacén personal externo.</Text>
 	<Text key="2405">Estadísticas PVP/PVE</Text>
-	<Text key="2406">Bajas en Batalla de Arena:</Text>
-	<Text key="2407">Puntaje de Batalla de Arena:</Text>
+	<Text key="2406">Bajas en Arena:</Text>
+	<Text key="2407">Puntos de Arena:</Text>
 	<Text key="2408">Moneda de Acción</Text>
 	<Text key="2409">Moneda de Acción: Se puede obtener en sistemas PVP/PVE como Batalla de Arena, Jefe Mundial y Mazmorra Especial. Esta moneda puede usarse para adquirir objetos valiosos.</Text>
 	<Text key="2410">Inversamente proporcional al tiempo de finalización.</Text>
 	<Text key="2411">Proporcional al porcentaje de daño causado.</Text>
-	<Text key="2412">Bajas en Batalla de Arena</Text>
-	<Text key="2413">Puntaje de Batalla de Arena</Text>
+	<Text key="2412">Bajas en Arena</Text>
+	<Text key="2413">Puntos de Arena</Text>
 	<Text key="2414">Moneda de Acción - Vendedor</Text>
 	<Text key="2415">Este juego está actualmente en acceso anticipado. El contenido y las funciones del juego están en desarrollo, por lo que puede haber errores. Su experiencia podría verse afectada ocasionalmente. Gracias por su comprensión.</Text>
 	<Text key="2416">Todos los jugadores están obligados a respetar la experiencia de juego de los demás jugadores. Los insultos, blasfemias, acoso, amenazas, humillación, discriminación, discurso de odio y comportamientos provocativos están estrictamente prohibidos. Las expresiones que impliquen daño o amenazas en la vida real se consideran infracciones graves. Estas infracciones pueden resultar en silencio, suspensión temporal o cierre permanente de la cuenta.</Text>
@@ -2359,9 +2359,9 @@ Demasiado tarde.</Text>
 	<Text key="2493">Persona</Text>
 	<Text key="2494">Clase</Text>
 	<Text key="2495">Líder del Grupo</Text>
-	<Text key="2496">Iniciar Búsqueda</Text>
+	<Text key="2496">Aceptar misión</Text>
 	<Text key="2497">Descripción:</Text>
-	<Text key="2498">Iniciar Nueva Búsqueda</Text>
+	<Text key="2498">Aceptar nueva misión</Text>
 	<Text key="2499">Min:</Text>
 	<Text key="2500">Max:</Text>
 	<Text key="2501">Persona:</Text>
@@ -2707,9 +2707,10 @@ Demasiado tarde.</Text>
 	<Text key="2842">Debes tener al menos nivel 50 para esto.</Text>
 	<Text key="2843">Ruleta de Premios de la Armadura de la Dinastía</Text>
 	<Text key="2844">Daño crítico:</Text>
-	<Text key="2845">Probabilidad de golpe crítico:</Text>
+	<Text key="2845">Prob.Crit:</Text>
 	<Text key="2846">Cuando se obtiene una armadura, esta ruleta se desactiva.</Text>
 	<Text key="2847">Si las conexiones desde algunas regiones son débiles o no es posible conectarse, puede conectarse al servidor principal a través de otra región. Tenga en cuenta que conectarse indirectamente desde otros países puede causar latencia adicional.</Text>
+	<Text key="2848">Para evitar una derrota automática, al menos 6 jugadores deben entrar al campo de batalla.</Text>
 
 
 
@@ -3217,9 +3218,9 @@ Demasiado tarde.</Text>
 
 
 	<Text key="49001">Puntos Físicos AP</Text>
-	<Text key="49002">PJ Físico</Text>
+	<Text key="49002">Defensa física</Text>
 	<Text key="49003">Magia AP</Text>
-	<Text key="49004">DP Mágico</Text>
+	<Text key="49004">Res. Mágica</Text>
 	<Text key="49005">HP</Text>
 	<Text key="49006">MP</Text>
 	<Text key="49007">Regeneración HP</Text>
@@ -3230,7 +3231,7 @@ Demasiado tarde.</Text>
 	<Text key="49012">Velocidad</Text>
 	<Text key="49013">Velocidad Atk. Velocidad</Text>
 	<Text key="49014">Velocidad de lanzamiento</Text>
-	<Text key="49015">Daño extra a Mob</Text>
+	<Text key="49015">Daño extra a monstruos</Text>
 	<Text key="49016">Daño extra al jefe</Text>
 	<Text key="49017">Nivel</Text>
 	<Text key="49018">Género</Text>
@@ -3246,7 +3247,7 @@ Demasiado tarde.</Text>
 	<Text key="49028">Precio de venta</Text>
 	<Text key="49029">Peso</Text>
 	<Text key="49030">Este artículo no se puede intercambiar.</Text>
-	<Text key="49031">Grado</Text>
+	<Text key="49031">Poder de Combate</Text>
 
 	<Text key="49032">Enfriamiento</Text>
 	<Text key="49033">MP</Text>
@@ -3268,10 +3269,10 @@ Demasiado tarde.</Text>
 	<Text key="49048">Recurso valioso</Text>
 	<Text key="49049">Nivel de Profesión</Text>
 
-	<Text key="49050">Probabilidad de Golpe Crítico</Text>
-	<Text key="49051">Probabilidad de Defensa Crítica</Text>
+	<Text key="49050">Prob.Crit</Text>
+	<Text key="49051">Resistencia a Golpes Críticos</Text>
 	<Text key="49052">Multiplicador Crítico</Text>
-	<Text key="49053">Multiplicador de Curación</Text>
+	<Text key="49053">Efectividad de Curación</Text>
 
 	<Text key="49201">Guardian's Resolve Set</Text>
 	<Text key="49202">Steelbreaker Set</Text>
@@ -7221,7 +7222,7 @@ Demasiado tarde.</Text>
 	<Text key="4117010">Creas un poderoso torbellino de viento en el área seleccionada, atrayendo a todos los enemigos dentro del rango hacia el centro y causando un 140% de daño mágico. Los objetivos atrapados se ralentizan un 70% durante 2 segundos. {0}{1}Cada punto adicional inflige un 8% de daño mágico extra al enemigo.{2}</Text>
 	<Text key="4117020">Invocas una criatura de fuego que emerge rápidamente desde el subsuelo. La criatura inflige un 100% de daño mágico a todos los enemigos frente a ella y los derriba, dejándolos incapacitados por un corto tiempo. {0}{1}Cada punto adicional inflige un 8% de daño mágico extra al enemigo.{2}</Text>
 	<Text key="4117030">Manipulas el elemento fuego del cielo para invocar un meteorito gigantesco que impacta en la zona objetivo, causando una explosión devastadora que inflige un 100% de daño mágico en un área amplia. Además, aturde por 1 segundo y aplica un efecto de quemadura que inflige un 30% de daño mágico por segundo durante 2 segundos. {0}{1}Cada punto adicional inflige un 14% de daño mágico extra al enemigo.{2}</Text>
-	<Text key="4117040">Congelas el área seleccionada con intensa energía de hielo, infligiendo un 140% de daño mágico y congelando a todos los enemigos durante 2 segundos. Los enemigos congelados no pueden moverse ni usar habilidades. Si el Elementalista se ve afectado por su propio hechizo, no puede moverse pero no recibe daño y se cura un 100% de su Poder Mágico por segundo. {0}{1}Cada punto adicional inflige un 9% de daño mágico extra al enemigo.{2}</Text>
+	<Text key="4117040">Congelas el área seleccionada con intensa energía de hielo, infligiendo un 140% de daño mágico y congelando a todos los enemigos durante 2 segundos. Los enemigos congelados no pueden moverse ni usar habilidades. Si el Elementalista se ve afectado por su propio hechizo, no puede moverse pero no recibe daño y se cura un 100% de su Daño Mágico por segundo. {0}{1}Cada punto adicional inflige un 9% de daño mágico extra al enemigo.{2}</Text>
 	<Text key="4117050">Invocas esqueletos que emergen del suelo y corren en la dirección seleccionada. Al golpear a un enemigo, explotan e infligen un 150% de daño mágico, dejando un efecto que quema al objetivo durante 3 segundos, causando un daño equivalente al 0.5% de tu salud máxima por segundo. {0}{1}Cada punto adicional inflige un 16% de daño mágico extra al enemigo.{2}</Text>
 	<Text key="4117060">Invocas caballos malditos que avanzan rápidamente en línea recta, infligiendo un 160% de daño mágico a todos los enemigos en su camino. El rastro de fuego que dejan inflige un 10% de daño mágico por segundo a los enemigos dentro y los inmoviliza durante 1.5 segundos. {0}{1}Cada punto adicional inflige un 15% de daño mágico extra al enemigo.{2}</Text>
 	<Text key="4117070">Descargas un poderoso rayo en el área seleccionada, infligiendo un 180% de daño mágico a los enemigos. {0}{1}Cada punto adicional inflige un 10% de daño mágico extra al enemigo.{2}</Text>
@@ -7256,7 +7257,7 @@ Demasiado tarde.</Text>
 	<Text key="4119080">Se vuelve etéreo durante 3.5 s, siendo inmune al daño y sanando a los aliados cercanos y a ti mismo un 50%. {0}{1}Cada punto aumenta la curación un 1%.{2}</Text>
 	<Text key="4119090">Aplicas un escudo del 100% a ti mismo y a los aliados cercanos; todos los afectados por este efecto obtienen Bendición. {0}{1}Cada punto añadido otorga un 4% de escudo adicional.{2}</Text>
 	<Text key="4119100">Invocas un círculo de luz que avanza hacia adelante; este círculo de movimiento lento inflige un 100% de daño mágico a los enemigos que toca y los ralentiza un 30% durante 2 segundos, mientras que a los aliados y a ti mismo que lo atraviesan les otorga un escudo del 70%, aumenta la Velocidad de Movimiento un 30% durante 2 segundos y concede Bendición. {0}{1}Cada punto añadido aumenta en un 4% el daño neto infligido a los enemigos y en un 1% la cantidad neta de escudo.{2}</Text>
-	<Text key="4119110">Invoca un espíritu que ralentiza a los enemigos un 50% durante 1.5 s; después de 2 s, explota causando daño verdadero igual al 75% de tu poder mágico y aturdiendo enemigos 1.5 s, sanando a los aliados un 75%. {0}{1}Cada punto aumenta el daño verdadero un 5% y la curación un 1%.{2}</Text>
+	<Text key="4119110">Invoca un espíritu que ralentiza a los enemigos un 50% durante 1.5 s; después de 2 s, explota causando daño verdadero igual al 75% de tu daño mágico y aturdiendo enemigos 1.5 s, sanando a los aliados un 75%. {0}{1}Cada punto aumenta el daño verdadero un 5% y la curación un 1%.{2}</Text>
 	<Text key="4119120">Crea un campo de purificación que elimina efectos negativos de los aliados. Los aliados dentro ganan +30% de velocidad, +300% de regeneración de HP y son curados un 30% por segundo durante 5 s. La curación sobrante se convierte en escudo. {0}{1}Cada punto aumenta la curación un 0.5%.{2}</Text>
 
 
@@ -7272,7 +7273,7 @@ Demasiado tarde.</Text>
 	<Text key="4101111">Reduce el daño recibido en un 40%.</Text>
 	<Text key="4101121">Reduce la Defensa Física y la Defensa Mágica en un 25%.</Text>
 
-	<Text key="4103021">Otorga Probabilidad de Golpe Crítico.</Text>
+	<Text key="4103021">Otorga Probabilidad de Crítico.</Text>
 	<Text key="4103022">Una habilidad específica puede reutilizarse durante este tiempo sin activar el tiempo de reutilización.</Text>
 	<Text key="4103023">Tiempo de reutilización de la habilidad.</Text>
 	<Text key="4103061">Se adopta una posición para bloquear el daño.</Text>
@@ -7289,7 +7290,7 @@ Demasiado tarde.</Text>
 	<Text key="4107031">Se adopta una posición para bloquear el daño.</Text>
 	<Text key="4107032">Aumenta la Velocidad de Movimiento en un 30%.</Text>
 	<Text key="4107071">Aumenta la Velocidad de Ataque.</Text>
-	<Text key="4107072">Otorga Probabilidad de Golpe Crítico y Daño Crítico, pero reduce la Defensa Física y Mágica en un 20%.</Text>
+	<Text key="4107072">Otorga Probabilidad de Crítico y Daño Crítico, pero reduce la Defensa Física y Mágica en un 20%.</Text>
 
 	<Text key="4109011">Aumenta la Velocidad de Movimiento en un 35%.</Text>
 	<Text key="4109012">El primer ataque inflige daño adicional al enemigo.</Text>
@@ -7308,7 +7309,7 @@ Demasiado tarde.</Text>
 	<Text key="4113091">Reduce la Defensa Física en un 15%.</Text>
 
 	<Text key="4115011">Otorga Velocidad de Ataque y Velocidad de Movimiento.</Text>
-	<Text key="4115031">Otorga un 20% de Velocidad de Movimiento y un 20% de Probabilidad de Golpe Crítico.</Text>
+	<Text key="4115031">Otorga un 20% de Velocidad de Movimiento y un 20% de Probabilidad de Crítico.</Text>
 	<Text key="4115041">El daño del primer ataque aumenta.</Text>
 	<Text key="4115071">Reduce la Defensa Física.</Text>
 	<Text key="4115081">Aumenta la Velocidad de Movimiento en un 70%.</Text>
@@ -7323,7 +7324,7 @@ Demasiado tarde.</Text>
 	<Text key="4117112">El próximo ataque inflige un 100% de Daño Crítico.</Text>
 	<Text key="4117113">Aumenta la Velocidad de Movimiento en un 25%.</Text>
 
-	<Text key="4119071">Otorga un 15% de Probabilidad de Golpe Crítico.</Text>
+	<Text key="4119071">Otorga un 15% de Probabilidad de Crítico</Text>
 	<Text key="4119081">El personaje no recibe daño.</Text>
 	<Text key="4119121">Otorga un 30% de Velocidad de Movimiento y un 300% de Regeneración de HP.</Text>
 
@@ -7362,7 +7363,7 @@ Demasiado tarde.</Text>
 	<Text key="414816">Descarga</Text>
 	<Text key="4148160">Acumulación Estática obtenida.</Text>
 	<Text key="414817">Precisión</Text>
-	<Text key="4148170">Cada acumulación otorga un 5% de Probabilidad de Golpe Crítico.</Text>
+	<Text key="4148170">Cada acumulación otorga un 5% de Probabilidad de Crítico.</Text>
 	<Text key="414818">Instinto del Cazador</Text>
 	<Text key="4148180">Al alcanzar 6 acumulaciones, la primera habilidad usada consume las acumulaciones y no activa el tiempo de reutilización.</Text>
 	<Text key="414819">Persecución Implacable</Text>
@@ -7374,7 +7375,7 @@ Demasiado tarde.</Text>
 	<Text key="414822">Elemento de Sincronización Efectivo</Text>
 	<Text key="4148220">La siguiente habilidad elemental es potenciada.</Text>
 	<Text key="414823">Rayo Crítico</Text>
-	<Text key="4148230">El multiplicador de Daño Crítico aumenta en un 30%.</Text>
+	<Text key="4148230">El Daño Crítico aumenta en un 30%.</Text>
 
 
 
@@ -7417,7 +7418,7 @@ Demasiado tarde.</Text>
 	<Text key="4149120">Tus ataques básicos y habilidades aplican cargas Estáticas a los enemigos; al alcanzar 5 cargas, tu siguiente ataque exitoso inflige Daño Físico adicional equivalente al 5% de la vida máxima del objetivo, te otorga un escudo equivalente al 10% de tu propia vida máxima y consume todas las cargas.</Text>
 
 	<Text key="414913">Precisión</Text>
-	<Text key="4149130">Cada ataque básico o habilidad acertada otorga un 5% de Probabilidad de Golpe Crítico (hasta un máximo del 25%). Las cargas duran 4 segundos; cada nuevo impacto renueva la duración y, al expirar, todas las cargas desaparecen.</Text>
+	<Text key="4149130">Cada ataque básico o habilidad acertada otorga un 5% de Probabilidad de Crítico (hasta un máximo del 25%). Las cargas duran 4 segundos; cada nuevo impacto renueva la duración y, al expirar, todas las cargas desaparecen.</Text>
 
 	<Text key="414914">Ojo Mortal</Text>
 	<Text key="4149140">Tus ataques básicos y habilidades infligen Daño Verdadero adicional equivalente al 10% de tu Ataque Físico.</Text>
