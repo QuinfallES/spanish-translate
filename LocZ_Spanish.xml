@@ -1429,7 +1429,7 @@ El cofre del tesoro que encuentres en las salas del tesoro te proporciona objeto
 	<Text key="1598">Autoridad</Text>
 	<Text key="1599">Nivel</Text>
 	<Text key="1600">Puntos PVP</Text>
-	<Text key="1601">Puntos PVP</Text>
+	<Text key="1601">Puntos PvE</Text>
 	<Text key="1602">Estado</Text>
 	<Text key="1603">Solicitudes</Text>
 	<Text key="1604">Fecha de creación del clan:</Text>
@@ -2711,6 +2711,8 @@ Demasiado tarde.</Text>
 	<Text key="2846">Cuando se obtiene una armadura, esta ruleta se desactiva.</Text>
 	<Text key="2847">Si las conexiones desde algunas regiones son débiles o no es posible conectarse, puede conectarse al servidor principal a través de otra región. Tenga en cuenta que conectarse indirectamente desde otros países puede causar latencia adicional.</Text>
 	<Text key="2848">Para evitar una derrota automática, al menos 6 jugadores deben entrar al campo de batalla.</Text>
+	<Text key="2849">Transferir todos los objetos al inventario</Text>
+	<Text key="2850">¿Estás seguro de que deseas transferir todos los objetos del barco a tu inventario? Los objetos dentro de cofres y mesas de trabajo también se moverán al inventario, pero asegúrate de tener suficientes espacios libres antes de confirmar la operación. De lo contrario, la transferencia no podrá completarse.</Text>
 
 
 
