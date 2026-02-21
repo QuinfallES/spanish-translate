@@ -12,7 +12,7 @@
 	<Text key="11">¿Seguro que deseas abandonar el grupo?</Text>
 	<Text key="12">Vas a expulsar a {0} del grupo. ¿Deseas expulsarlo?</Text>
 	<Text key="13">Se asignará a {0} como líder del grupo. ¿Confirmar?</Text>
-	<Text key="14">Puedes escribir al canal de Chat Global en intervalos de {0} segundos.</Text>
+	<Text key="14">Puedes volver a escribir en el canal de Global en {0} segundos.</Text>
 	<Text key="15">Colocación</Text>
 	<Text key="16">La habilidad anterior debe ser de nivel 1 o superior.</Text>
 	<Text key="17">Si la habilidad activa vinculada está abierta, usarás 2 puntos para desbloquear esta habilidad.</Text>
@@ -1650,8 +1650,8 @@ Ten en cuenta que los objetos almacenados aquí se destruirán por completo al c
 	<Text key="1809">Sugerencia</Text>
 	<Text key="1810">Informe de trampas</Text>
 	<Text key="1811">Página principal</Text>
-	<Text key="1812">Orden de VENTA</Text>
-	<Text key="1813">Orden de COMPRA</Text>
+	<Text key="1812">Publicar orden de venta</Text>
+	<Text key="1813">Publicar orden de compra</Text>
 	<Text key="1814">Almacenamiento</Text>
 	<Text key="1815">Buscar...</Text>
 	<Text key="1816">Arma</Text>
@@ -1672,7 +1672,7 @@ Ten en cuenta que los objetos almacenados aquí se destruirán por completo al c
 	<Text key="1831">Cantidad:</Text>
 	<Text key="1832">Ganancia total:</Text>
 	<Text key="1833">Duración en venta:</Text>
-	<Text key="1834">Tasa de transacción:</Text>
+	<Text key="1834">Impuesto:</Text>
 	<Text key="1835">Tus productos en venta.</Text>
 	<Text key="1836">Sólo puedes cancelar la venta en la ciudad central donde pusiste el producto a la venta.</Text>
 	<Text key="1837">Búsqueda Real</Text>
@@ -1987,7 +1987,7 @@ Ten en cuenta que los objetos almacenados aquí se destruirán por completo al c
 	<Text key="2146">Categorías</Text>
 	<Text key="2147">Poderes:</Text>
 	<Text key="2148">Bono de Conjunto:</Text>
-	<Text key="2149">Estrella:</Text>
+	<Text key="2149">Mejora:</Text>
 	<Text key="2150">Seleccionado:</Text>
 	<Text key="2151">Arrastra el objeto para el que deseas realizar una orden de compra en el cuadro de abajo o selecciónalo de los artículos en el mercado. Solo se pueden realizar órdenes de compra para artículos por cantidad.</Text>
 	<Text key="2152">Precio con impuestos incluidos:</Text>
@@ -2047,7 +2047,7 @@ Ten en cuenta que los objetos almacenados aquí se destruirán por completo al c
 	<Text key="2206">Muy Difícil</Text>
 	<Text key="2207">Jugadores del Grupo</Text>
 	<Text key="2208">Dificultad por Nivel:</Text>
-	<Text key="2209">Tasa de Caída:</Text>
+	<Text key="2209">Probabilidad de Caída:</Text>
 	<Text key="2210">Nivel de la Mazmorra:</Text>
 	<Text key="2211">Enemigo:</Text>
 	<Text key="2212">Altar:</Text>
@@ -2191,7 +2191,7 @@ Ten en cuenta que los objetos almacenados aquí se destruirán por completo al c
 	<Text key="2351">Haz clic derecho en los objetos para eliminarlos en masa.</Text>
 	<Text key="2352">Seleccionado</Text>
 	<Text key="2353">Arrastra los objetos aquí para eliminarlos. Haz clic aquí para eliminarlos en masa.</Text>
-	<Text key="2354">Arrastra aquí los objetos apilables para dividirlos.</Text>
+	<Text key="2354">Arrastra un objeto apilable aquí para separarlo en montones.</Text>
 	<Text key="2355">Este nombre de personaje ya existe, debes ingresar un nuevo nombre.</Text>
 	<Text key="2356">Externo</Text>
 	<Text key="2357">Depósito Externo</Text>
@@ -2713,7 +2713,13 @@ Demasiado tarde.</Text>
 	<Text key="2848">Para evitar una derrota automática, al menos 6 jugadores deben entrar al campo de batalla.</Text>
 	<Text key="2849">Transferir todos los objetos al inventario</Text>
 	<Text key="2850">¿Estás seguro de que deseas transferir todos los objetos del barco a tu inventario? Los objetos dentro de cofres y mesas de trabajo también se moverán al inventario, pero asegúrate de tener suficientes espacios libres antes de confirmar la operación. De lo contrario, la transferencia no podrá completarse.</Text>
-
+	<Text key="2851">No puedes colocar mesas de trabajo en los barcos.</Text>
+	<Text key="2852">4 AP Físico</Text>
+	<Text key="2853">8 Defensa Física</Text>
+	<Text key="2854">75 HP + Regeneración de HP</Text>
+	<Text key="2855">4 AP Mágico</Text>
+	<Text key="2856">8 Defensa Mágica</Text>
+	<Text key="2857">50 MP + Regeneración de MP</Text>
 
 
 
@@ -3276,44 +3282,44 @@ Demasiado tarde.</Text>
 	<Text key="49052">Multiplicador Crítico</Text>
 	<Text key="49053">Efectividad de Curación</Text>
 
-	<Text key="49201">Guardian's Resolve Set</Text>
-	<Text key="49202">Steelbreaker Set</Text>
-	<Text key="49203">Sanctified Bastion Set</Text>
-	<Text key="49204">Sentinel's Guard Set</Text>
-	<Text key="49205">Shadowstrike Set</Text>
-	<Text key="49206">Arcane Wisp Set</Text>
-	<Text key="49207">Mystic Ember Set</Text>
-	<Text key="49208">Dawnbringer Set</Text>
-	<Text key="49209">Ironwall Defender Set</Text>
-	<Text key="49210">Swiftstrike Set</Text>
-	<Text key="49211">Arcane Focus Set</Text>
-	<Text key="49212">Lifeward Set</Text>
+	<Text key="49201">Conjunto de la Resolución del Guardián</Text>
+	<Text key="49202">Conjunto Rompeacero</Text>
+	<Text key="49203">Conjunto del Bastión Santificado</Text>
+	<Text key="49204">Conjunto de la Guardia del Centinela</Text>
+	<Text key="49205">Conjunto Golpe Sombrío</Text>
+	<Text key="49206">Conjunto del Fuego Fatuo Arcano</Text>
+	<Text key="49207">Conjunto de la Brasa Mística</Text>
+	<Text key="49208">Conjunto Portaalba</Text>
+	<Text key="49209">Conjunto del Defensor Muro de Hierro</Text>
+	<Text key="49210">Conjunto Golpe Veloz</Text>
+	<Text key="49211">Conjunto del Enfoque Arcano</Text>
+	<Text key="49212">Conjunto Guardavida</Text>
 
-	<Text key="49231">Warlord's Honor Set</Text>
-	<Text key="49232">Ironclad Fury Set</Text>
-	<Text key="49233">Guardian of Light Set</Text>
-	<Text key="49234">Whispering Gale Set</Text>
-	<Text key="49235">Bladewind Set</Text>
-	<Text key="49236">Etherstorm Set</Text>
-	<Text key="49237">Celestial Flame Set</Text>
-	<Text key="49238">Lifebinder Set</Text>
-	<Text key="49239">Stoneguard Set</Text>
-	<Text key="49240">Savage Strike Set</Text>
-	<Text key="49241">Mystic Conduit Set</Text>
-	<Text key="49242">Serene Blessing Set</Text>
+	<Text key="49231">Conjunto del Honor del Señor de la Guerra</Text>
+	<Text key="49232">Conjunto de la Furia Acerada</Text>
+	<Text key="49233">Conjunto del Guardián de la Luz</Text>
+	<Text key="49234">Conjunto de la Brisa Susurrante</Text>
+	<Text key="49235">Conjunto Viento de Cuchillas</Text>
+	<Text key="49236">Conjunto Tormenta Etérea</Text>
+	<Text key="49237">Conjunto de la Llama Celestial</Text>
+	<Text key="49238">Conjunto Vinculavidas</Text>
+	<Text key="49239">Conjunto Guardapiedra</Text>
+	<Text key="49240">Conjunto Golpe Salvaje</Text>
+	<Text key="49241">Conjunto del Conducto Místico</Text>
+	<Text key="49242">Conjunto de la Bendición Serena</Text>
 
-	<Text key="49261">Sovereign's Legacy Set</Text>
-	<Text key="49262">Ravager's Dominion Set</Text>
-	<Text key="49263">Divine Aegis Set</Text>
-	<Text key="49264">Tempestbound Set</Text>
-	<Text key="49265">Bladeweaver Set</Text>
-	<Text key="49266">Spellfire Set</Text>
-	<Text key="49267">Astral Conflux Set</Text>
-	<Text key="49268">Seraphic Grace Set</Text>
-	<Text key="49269">Fortress of Valor Set</Text>
-	<Text key="49270">Dragonclaw Set</Text>
-	<Text key="49271">Eldritch Catalyst Set</Text>
-	<Text key="49272">Divine Harmony Set</Text>
+	<Text key="49261">Conjunto del Legado del Soberano</Text>
+	<Text key="49262">Conjunto del Dominio del Devastador</Text>
+	<Text key="49263">Conjunto Égida Divina</Text>
+	<Text key="49264">Conjunto Vinculado a la Tempestad</Text>
+	<Text key="49265">Conjunto Tejefilos</Text>
+	<Text key="49266">Conjunto Fuego Hechicero</Text>
+	<Text key="49267">Conjunto de la Confluencia Astral</Text>
+	<Text key="49268">Conjunto de la Gracia Seráfica</Text>
+	<Text key="49269">Conjunto de la Fortaleza del Valor</Text>
+	<Text key="49270">Conjunto Garra de Dragón</Text>
+	<Text key="49271">Conjunto del Catalizador Sobrenatural</Text>
+	<Text key="49272">Conjunto de la Armonía Divina</Text>
 	
 	
 	
@@ -9461,9 +9467,10 @@ Además, con materiales de reparación, puedes realizar la misma acción en cual
 	<Text key="4740095">XXX</Text>
 	<Text key="4740105">Arrastra las cuchillas que compraste a tu barra de habilidades.
 
-En este universo, es posible capturar vacas, cabras, ovejas, caballos e incluso gallinas.
+En este mundo puedes capturar vacas, cabras, ovejas, caballos e incluso gallinas.
 
-Mueve el cursor del mouse sobre el animal que deseas capturar y usa la cuchilla en la barra de habilidades. Si ganas el mini-juego que aparece, el animal será domesticado.</Text>
+Coloca el cursor sobre el animal que quieras capturar y activa la cuchilla desde tu barra de habilidades.
+Si superas el minijuego que aparece, el animal quedará domesticado.</Text>
 	<Text key="4740115">Para convocar tu montura, presiona la tecla I para abrir tu inventario, haz clic con el botón derecho en la montura en tu inventario y úsala. Puedes acceder a tu montura con la tecla J. Con la tecla P, puedes montar rápidamente tu montura.</Text>
 	<Text key="4740125">Puedes abrir el menú de montura presionando la tecla J. En este menú, se muestran la estabilidad de la montura y la tasa de experiencia. Para equipar equipos en tu montura, haz clic en el botón de equipos en el menú de montura y equipa los equipos de montura desde tu inventario.
 
