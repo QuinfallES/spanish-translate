@@ -2713,7 +2713,13 @@ Demasiado tarde.</Text>
 	<Text key="2848">Para evitar una derrota automática, al menos 6 jugadores deben entrar al campo de batalla.</Text>
 	<Text key="2849">Transferir todos los objetos al inventario</Text>
 	<Text key="2850">¿Estás seguro de que deseas transferir todos los objetos del barco a tu inventario? Los objetos dentro de cofres y mesas de trabajo también se moverán al inventario, pero asegúrate de tener suficientes espacios libres antes de confirmar la operación. De lo contrario, la transferencia no podrá completarse.</Text>
-
+	<Text key="2851">No puedes colocar mesas de trabajo en los barcos.</Text>
+	<Text key="2852">4 AP Físico</Text>
+	<Text key="2853">8 Defensa Física</Text>
+	<Text key="2854">75 HP + Regeneración de HP</Text>
+	<Text key="2855">4 AP Mágico</Text>
+	<Text key="2856">8 Defensa Mágica</Text>
+	<Text key="2857">50 MP + Regeneración de MP</Text>
 
 
 
