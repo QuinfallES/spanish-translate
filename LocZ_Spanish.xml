@@ -2720,8 +2720,15 @@ Demasiado tarde.</Text>
 	<Text key="2855">4 Daño Mágico</Text>
 	<Text key="2856">8 Defensa Mágica</Text>
 	<Text key="2857">50 MP + Regeneración de MP</Text>
-
-
+	<Text key="2858">VM Error.</Text>
+	<Text key="2859">Device Error.</Text>
+	<Text key="2860">Has infligido {0} de daño físico al jugador {1}.</Text>
+	<Text key="2861">Has infligido {0} de daño físico crítico al jugador {1}.</Text>
+	<Text key="2862">Has infligido {0} de daño mágico al jugador {1}.</Text>
+	<Text key="2863">Has infligido {0} de daño mágico crítico al jugador {1}.</Text>
+	
+	
+	
 
 
 
