@@ -7001,27 +7001,27 @@ Demasiado tarde.</Text>
 	<Text key="410102">Golpe de Escudo</Text>
 	<Text key="410103">Escudo de Rebote</Text>
 	<Text key="410104">Carga Implacable</Text>
-	<Text key="410105">Caída Heroica</Text>
-	<Text key="410106">Cadena del Terror</Text>
-	<Text key="410107">Baluarte</Text>
-	<Text key="410108">Grito de Guerra</Text>
-	<Text key="410109">Corte Valiente</Text>
+	<Text key="410105">Salto Heroico</Text>
+	<Text key="410106">Cadena aterradora</Text>
+	<Text key="410107">Muralla</Text>
+	<Text key="410108">Grito de reunión</Text>
+	<Text key="410109">Golpe Heroico</Text>
 	<Text key="410110">Solidaridad</Text>
-	<Text key="410111">Voto Infinito</Text>
-	<Text key="410112">Romper la Línea</Text>
+	<Text key="410111">Voto Interminable</Text>
+	<Text key="410112">Rompe la Línea</Text>
 
-	<Text key="4101010">Atacas al enemigo tres veces consecutivas; cada golpe inflige 100% de Daño Físico, y cada uno inflige 10% más que el anterior. {0}{1}Cada punto añadido otorga +6% de daño físico adicional. {2}</Text>
-	<Text key="4101020">Avanzas rápidamente hacia tu objetivo, infligiendo 120% de Daño Físico al primer enemigo golpeado y aturdiéndolo durante 1 segundo. Luego obtienes +15% de Defensa Física y +15% de Defensa Mágica por 3 segundos. {0}{1}Cada punto añadido otorga +10% de daño físico adicional. {2}</Text>
-	<Text key="4101030">Lanzas tu escudo, que explota al impactar, infligiendo 140% de Daño Físico y aturdiendo a los enemigos durante 1 segundo. Por cada enemigo golpeado, obtienes +5% de Defensa Física y +5% de Defensa Mágica (máx. 25%). {0}{1}Cada punto añadido otorga +9% de daño físico adicional. {2}</Text>
-	<Text key="4101040">Levantas tu escudo y cargas hacia adelante (inmune a efectos negativos), infligiendo 170% de Daño Físico y aturdiendo por 1 segundo. Por cada enemigo golpeado, obtienes +5% de Defensa Física y +5% de Defensa Mágica (máx. 25%). {0}{1}Cada punto añadido reduce el tiempo de reutilización en 0,4 segundos. {2}</Text>
-	<Text key="4101050">Saltas y te lanzas sobre la zona objetivo, atrayendo enemigos y causando 140% de Daño Físico. Los aturdes por 1 segundo y los ralentizas un 20% durante 2 segundos. Inflige +100% de daño adicional a criaturas. {0}{1}Cada punto añadido otorga +9% de daño físico adicional. {2}</Text>
-	<Text key="4101060">Lanzas una cadena hacia adelante, atrayendo a los enemigos golpeados y reduciendo su velocidad un 90% durante 1.5 segundos, infligiendo 250% de Daño Físico y reduciendo sus Defensas en 15% durante 5 segundos. Inflige +200% de daño adicional a criaturas. {0}{1}Cada punto añadido reduce el tiempo de reutilización en 0.2 segundos. {2}</Text>
-	<Text key="4101070">Levantas tu escudo durante 2.5 segundos, bloqueando todos los ataques desde la dirección elegida. Mientras mantienes la postura, obtienes hasta 5 acumulaciones por segundo de +5% de Defensa Física y +5% de Defensa Mágica durante 10 segundos. {0}{1}Cada punto aumenta los bonos defensivos en +0.2%. {2}</Text>
-	<Text key="4101080">Emites un poderoso grito de guerra, infligiendo 170% de Daño Físico a los enemigos cercanos. Ganas +25% de Defensa Física y +25% de Defensa Mágica durante 5 segundos, y los aliados cercanos reciben la mitad del efecto. {0}{1}Cada punto reduce el tiempo de reutilización en 0.2 segundos. {2}</Text>
-	<Text key="4101090">Realizas un ataque giratorio de 360°, golpeando a todos los enemigos cercanos por 140% de Daño Físico. Inflige +200% de daño adicional en PvE. {0}{1}Cada punto añade +10% de daño físico. {2}</Text>
-	<Text key="4101100">Otorgas a ti y a tus aliados cercanos un escudo que absorbe daño equivalente al 100% de tu Defensa Física + Mágica. {0}{1}Cada punto aumenta la fuerza del escudo en +4%. {2}</Text>
-	<Text key="4101110">Creas un aura protectora durante 6 segundos que reduce el daño recibido por los aliados en 40%. {0}{1}Cada punto reduce el tiempo de reutilización en 2 segundos. {2}</Text>
-	<Text key="4101120">Lanzas un corte en línea recta, infligiendo 200% de Daño Físico y reduciendo las Defensas Física y Mágica de los enemigos en 12.5% durante 5 segundos. {0}{1}Cada punto añade +25% de daño físico adicional y -0.5% de defensa enemiga. {2}</Text>
+	<Text key="4101010">Golpea al enemigo tres veces seguidas; cada ataque causa un 100% de daño físico y cada golpe causa un 10% más que el anterior. {0}{1}Cada punto añadido otorga +6% de daño físico adicional. {2}</Text>
+	<Text key="4101020">Corres rápidamente hacia tu objetivo, infliges un 120% de daño físico al primer enemigo alcanzado y aturdiéndolo durante 1 segundo. Luego ganas +15% Defensa Física y +15% Defensa Mágica durante 3 segundos. {0}{1}Cada punto añadido otorga +10% de daño físico adicional. {2}</Text>
+	<Text key="4101030">Lanzas tu escudo, que explota al impactar, aturdiendo a los objetivos durante 1 segundo y causando un 140% de daño físico. Obtienes +5% de Defensa Física y +5% de Defensa Mágica por cada objetivo alcanzado (hasta un máximo de 25%). {0}{1}Cada punto añadido otorga +9% de daño físico adicional. {2}</Text>
+	<Text key="4101040">Avanza con tu escudo levantado, haciéndote inmune a efectos negativos mientras te desplazas. Inflige 170% de daño físico a todos los enemigos en tu camino y los aturde durante 1 segundo. Por cada enemigo golpeado, obtienes +5% de Defensa Física y +5% de Defensa Mágica (hasta un máximo de 25%). {0}{1}Cada punto añadido reduce el tiempo de reutilización en 0,4 segundos. {2}</Text>
+	<Text key="4101050">Saltas al aire y te lanzas sobre el área objetivo, atrayendo a los enemigos cercanos y causando 140% de daño físico. Los enemigos quedan aturdidos durante 1 segundo y ralentizados un 20% durante 2 segundos. Además, inflige +100% de daño adicional a criaturas. {0}{1}Cada punto añadido otorga +9% de daño físico adicional. {2}</Text>
+	<Text key="4101060">Lanzas una cadena hacia adelante, atrayendo a los enemigos hacia ti y ralentizándolos un 90% durante 1,5 segundos. Inflige 250% de daño físico y reduce su Defensa Física y Mágica en un 15% durante 5 segundos. Además, causa +200% de daño adicional a criaturas.{0}{1}Cada punto añadido reduce el tiempo de reutilización en 0.2 segundos. {2}</Text>
+	<Text key="4101070">Levantas tu escudo durante 2,5 segundos, bloqueando todos los ataques desde la dirección elegida. Mientras te mantienes firme, ganas +5% de Defensa Física y +5% de Defensa Mágica por apilamiento, acumulándose hasta 5 veces por segundo durante 10 segundos. {0}{1}Cada punto aumenta los bonos defensivos en +0.2%. {2}</Text>
+	<Text key="4101080">Deja escapar un poderoso grito de guerra que inflige un 170% de daño físico a los enemigos cercanos. Gana +25% Defensa Física y +25% Magia durante 5 segundos, y los miembros del grupo cercano obtienen la mitad de este efecto. {0}{1}Cada punto reduce el tiempo de reutilización en 0.2 segundos. {2}</Text>
+	<Text key="4101090">Balanceas tu espada en un arco de 360°, golpeando a todos los enemigos cercanos e infligiendo 140% de daño físico. Además, causa +200% de daño adicional contra criaturas. {0}{1}Cada punto añade +10% de daño físico. {2}</Text>
+	<Text key="4101100">Concédete a ti mismo y a los miembros del grupo cercano un escudo que absorba daño equivalente al 100% de tu Defensa Física + Mágica. {0}{1}Cada punto aumenta la fuerza del escudo en +4%. {2}</Text>
+	<Text key="4101110">Creas un aura protectora que dura 6 segundos y reduce el daño entrante en un 40% para todos los aliados dentro del área. {0}{1}Cada punto reduce el tiempo de reutilización en 2 segundos. {2}</Text>
+	<Text key="4101120">Avanzas en línea recta, infligiendo 200% de daño físico y reduciendo la defensa física y mágica de los enemigos en un 12,5% durante 5 segundos. {0}{1}Cada punto añade +25% de daño físico adicional y -0.5% de defensa enemiga. {2}</Text>
 
 
 
@@ -7461,7 +7461,7 @@ Demasiado tarde.</Text>
 	<Text key="415001">Concentración Exitosa</Text>
 	<Text key="4150010">Aumenta el Ataque Físico y el Ataque Mágico en un 5%.</Text>
 
-	<Text key="415002">Grito de Guerra</Text>
+	<Text key="415002">Grito de reunión</Text>
 	<Text key="4150020">Otorga un 5% de Probabilidad Crítica y un 10% de Velocidad.</Text>
 
 	<Text key="415003">Maestría de Ataque</Text>
