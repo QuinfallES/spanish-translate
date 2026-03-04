@@ -19,7 +19,7 @@
 	
 	<Text key="18">Guardián</Text>
 	<Text key="19">Vanguardía</Text>
-	<Text key="20">Hellknight</Text>
+	<Text key="20">Caballero del Infierno</Text>
 	<Text key="21">Duelista</Text>
 	<Text key="22">Lancero</Text>
 	<Text key="23">Valkiria</Text>
@@ -7025,9 +7025,9 @@ Demasiado tarde.</Text>
 
 
 
-	<Text key="410301">Corte Ciclónico</Text>
-	<Text key="410302">Eco de la Hoja</Text>
-	<Text key="410303">Caída del Destino</Text>
+	<Text key="410301">Corte de ciclón</Text>
+	<Text key="410302">Eco de navaja</Text>
+	<Text key="410303">Caída fatal</Text>
 	<Text key="410304">Portador del Infierno</Text>
 	<Text key="410305">Danza de Espadas</Text>
 	<Text key="410306">Represalia</Text>
@@ -7038,18 +7038,18 @@ Demasiado tarde.</Text>
 	<Text key="410311">Última Resistencia</Text>
 	<Text key="410312">Veredicto Final</Text>
 
-	<Text key="4103010">Giras hacia adelante empuñando la espada, infligiendo 300% de Daño Físico a todos los enemigos que atraviesas o que estén cerca. {0}{1}Cada punto reduce el tiempo de reutilización en 0.4 s.{2}</Text>
-	<Text key="4103020">Te lanzas rápidamente en la dirección elegida; si impactas a un enemigo, infliges 220% de Daño Físico y puedes reutilizar la habilidad durante 4 s. Si fallas, entra en enfriamiento normal. Cada golpe exitoso otorga +5% de Prob. Crítica (máx. +25%). {0}{1}Cada punto reduce el tiempo de reutilización en 0.3 s.{2}</Text>
-	<Text key="4103030">Saltas al aire y golpeas el suelo, liberando 3 ondas de energía, cada una inflige 200% de Daño Físico y reduce la velocidad de los enemigos un 30% durante 3 s. {0}{1}Cada punto otorga +4% de Daño Físico adicional.{2}</Text>
-	<Text key="4103040">Levantas tu gran espada y la clavas en el suelo, generando una onda expansiva que derriba a los enemigos e inflige 200% de Daño Físico. {0}{1}Cada punto otorga +7% de Daño Físico adicional.{2}</Text>
-	<Text key="4103050">Realizas tres golpes consecutivos infligiendo 100% / 100% / 130% de Daño Físico. {0}{1}Cada punto reduce el tiempo de reutilización en 0.4 s.{2}</Text>
-	<Text key="4103060">Adoptas una postura defensiva y anticipas el ataque enemigo. Si bloqueas con éxito, obtienes +10% Ataque Físico, +10% Vel. de Movimiento y +10% Vel. de Ataque durante 5 s. {0}{1}Cada punto aumenta los efectos en +1%.{2}</Text>
-	<Text key="4103070">Ruges con furia, infligiendo 200% de Daño Físico a los enemigos cercanos. Durante 7 s, obtienes +15% Robo de Vida, +15% Vel. de Movimiento, +15% Vel. de Ataque y +15% Prob. Crítica, pero reduces la Defensa Física y Mágica un 20%. {0}{1}Cada punto aumenta los efectos positivos en +0.8%.{2}</Text>
-	<Text key="4103080">Golpeas el suelo con la espada, causando una explosión que inflige 160% de Daño Físico y aplica Quemadura durante 3 s (2.5% del HP Máx. por segundo). {0}{1}Cada punto otorga +8% de Daño Físico adicional.{2}</Text>
-	<Text key="4103090">Levantas tu espada en el aire, creando una explosión de energía. Inflige un 150% de Daño Físico a todos los enemigos en el área y los aturde durante 2 segundos. {0}{1}Cada punto añadido inflige un 6% adicional de Daño Físico a los enemigos.{2}</Text>
-	<Text key="4103100">Te lanzas una corta distancia hacia adelante y obtienes un escudo igual al 200% de tu Ataque Físico. {0}{1}Cada punto reduce el tiempo de reutilización en 0.3 s.{2}</Text>
-	<Text key="4103110">Al activar, obtienes un escudo equivalente al 0.5% de tu HP perdido por cada 1% faltante. Luego liberas cadenas de energía que atraen enemigos, infligiendo 200% de Daño Físico y aturdiendo por 2 s. {0}{1}Cada punto otorga +25% de Daño Físico adicional.{2}</Text>
-	<Text key="4103120">Una espada gigante cae del cielo golpeando el área objetivo. Los enemigos en el centro reciben 200% de Daño Físico, y los que tengan menos del 20% de HP (excepto jefes) son ejecutados. Los demás reciben 120% de Daño Físico. Tú y tus aliados recuperan 5% de HP por segundo. {0}{1}Cada punto otorga +20% de Daño Físico adicional.{2}</Text>
+	<Text key="4103010">Giras hacia adelante, cortando con tu espada en un torbellino, lo que inflige un 300% de daño físico a todos los enemigos que atraviesas o cerca de ti. {0}{1}Cada punto reduce el tiempo de reutilización en 0.4 s.{2}</Text>
+	<Text key="4103020">Corres rápidamente hacia la dirección objetivo; Si esta habilidad golpea a un enemigo, inflige un 220% de daño físico y se puede usar repetidamente durante 4 segundos. Si falla, continúa con el tiempo de reutilización normal. Cada éxito exitoso otorga +5% de probabilidad crítica (hasta +25%). {0}{1}Cada punto reduce el tiempo de reutilización en 0.3 s.{2}</Text>
+	<Text key="4103030">Saltas en el aire y golpeas el suelo, liberando 3 ondas de energía, cada una de las cuales causa un 200% de daño físico y ralentiza a los enemigos en un 30% durante 3 segundos. {0}{1}Cada punto otorga +4% de Daño Físico adicional.{2}</Text>
+	<Text key="4103040">Levantas tu gran espada y golpeas el suelo, desatando una onda de choque masiva que derriba a los enemigos y causa un daño físico del 200%. {0}{1}Cada punto otorga +7% de Daño Físico adicional.{2}</Text>
+	<Text key="4103050">Realiza tres golpes consecutivos infligiendo 100% / 100% / 130% de daño físico. {0}{1}Cada punto reduce el tiempo de reutilización en 0.4 s.{2}</Text>
+	<Text key="4103060">Te preparas y sientes un ataque entrante. Si contrarrestas con éxito el primer golpe, gana +10% de ataque físico, +10% de velocidad de movimiento y +10% de velocidad de ataque durante 5 segundos. {0}{1}Cada punto aumenta los efectos en +1%.{2}</Text>
+	<Text key="4103070">Rugir ferozmente, causando daño físico del 200% a los enemigos cercanos. Durante 7 segundos, obtenga +15% de robo de vida, +15% de velocidad de movimiento, +15% de velocidad de ataque y +15% de probabilidad crítica, pero reduzca la defensa física y mágica en un 20%. {0}{1}Cada punto aumenta los efectos positivos en +0.8%.{2}</Text>
+	<Text key="4103080">Golpeas el suelo con tu espada, creando una explosión en el área que causa un 160% de daño físico e inflige quemaduras durante 3 segundos, causando un 2,5% de enemigos Max HP por segundo. {0}{1}Cada punto otorga +8% de Daño Físico adicional.{2}</Text>
+	<Text key="4103090">Levantas tu espada en el aire, creando una explosión de energía. Inflige un 150% de daño físico a todos los enemigos de la zona y los aturde durante 2 segundos. {0}{1}Cada punto añadido inflige un 6% adicional de Daño Físico a los enemigos.{2}</Text>
+	<Text key="4103100">Avanza una corta distancia y gana un escudo equivalente al 200% de tu ataque físico. {0}{1}Cada punto reduce el tiempo de reutilización en 0.3 s.{2}</Text>
+	<Text key="4103110">Cuando se active, obtiene un escudo equivalente al 0,5% de su vida faltante por cada 1% de vida que le falte. Luego libera cadenas de energía destructivas que atraen a los enemigos cercanos, causando un 200% de daño físico y aturdiéndolos durante 2 segundos. {0}{1}Cada punto otorga +25% de Daño Físico adicional.{2}</Text>
+	<Text key="4103120">Una enorme espada desciende del cielo y golpea el área objetivo. Ofrece daño físico del 200% a los enemigos en el centro y ejecuta instantáneamente aquellos por debajo del 20% de HP (no jefe). Otros sufren un 120% de daño físico. Restaura +5% HP por segundo para usted y sus aliados cercanos. {0}{1}Cada punto otorga +20% de Daño Físico adicional.{2}</Text>
 
 
 
