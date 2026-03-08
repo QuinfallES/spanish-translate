@@ -2726,6 +2726,20 @@ Demasiado tarde.</Text>
 	<Text key="2861">Has infligido {0} de daño físico crítico al jugador {1}.</Text>
 	<Text key="2862">Has infligido {0} de daño mágico al jugador {1}.</Text>
 	<Text key="2863">Has infligido {0} de daño mágico crítico al jugador {1}.</Text>
+
+	<Text key="2864">Recuperación de objetos</Text>
+
+	<Text key="2865">Aquí puedes recuperar objetos vendidos o descartados por error pagando 5 veces su precio de venta. Esta lista muestra los últimos 1000 objetos eliminados; los objetos más antiguos no pueden recuperarse. Ten en cuenta que esta lista se reiniciará cuando el servidor se reinicie.</Text>
+
+	<Text key="2866">Recuperación</Text>
+
+	<Text key="2867">Aquí puedes gestionar los espacios protegidos del inventario. Esto evita que los objetos en esos espacios se vendan o descarten accidentalmente.</Text>
+
+	<Text key="2868">Espacio Protegido</Text>
+
+	<Text key="2869">Haz clic derecho en los espacios del inventario que deseas proteger. Los objetos colocados en estos espacios no se verán afectados por ventas a NPC ni por acciones de descarte. Recuerda que la protección es por espacio individual.</Text>
+
+	<Text key="2870">Rellenar desde el inventario</Text>
 	
 	
 	
@@ -5670,6 +5684,10 @@ Demasiado tarde.</Text>
 	<Text key="2118010">Puedes abrirla haciendo clic con el botón derecho. Obtienes equipo de una potencia aleatoria. Es posible obtener equipo legendario.</Text>
 	<Text key="211802">Caja de Material de Batalla de Arena</Text>
 	<Text key="2118020">Puedes abrirlo haciendo clic derecho. Obtendrás un material valioso al azar. También existe la posibilidad de obtener la Protección Tera.</Text>
+
+	<Text key="211806">Cofre de Recompensa de Twitch</Text>
+
+	<Text key="2118060">Puedes abrirlo haciendo clic derecho. Obtendrás un material valioso aleatorio. También existe la posibilidad de obtener Protección Tera.</Text>
 
 
 
