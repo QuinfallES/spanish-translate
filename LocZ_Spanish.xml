@@ -2740,6 +2740,16 @@ Demasiado tarde.</Text>
 	<Text key="2869">Haz clic derecho en los espacios del inventario que deseas proteger. Los objetos colocados en estos espacios no se verán afectados por ventas a NPC ni por acciones de descarte. Recuerda que la protección es por espacio individual.</Text>
 
 	<Text key="2870">Rellenar desde el inventario</Text>
+
+	<Text key="2871">La recompensa garantizada se otorgará si no se obtiene Tera después de 20 giros.</Text>
+
+	<Text key="2872">Moneda Olímpica:</Text>
+
+	<Text key="2873">Tienda Olímpica</Text>
+
+	<Text key="2874">Unirse a la próxima batalla</Text>
+
+	<Text key="2875">Salir de la próxima batalla</Text>
 	
 	
 	
@@ -6202,6 +6212,10 @@ Demasiado tarde.</Text>
 	<Text key="220015">Poción de HP artesanal (Nivel 5)</Text>
 	<Text key="2200150">Regenera al instante 7500 PS. Puede fabricarse en el banco del alquimista.</Text>
 
+	<Text key="220051">Poción de Inmunidad</Text>
+
+	<Text key="2200510">Elimina instantáneamente todos los efectos de control de masas de tu personaje y otorga protección contra ellos durante 2 segundos.</Text>
+
 	<Text key="220101">Poción de PM lista (Nivel 1)</Text>
 	<Text key="2201010"> Restaura 200 PM al instante. Se puede obtener de criaturas. También se puede comprar al alquimista.</Text>
 	<Text key="220102">Poción de PM lista (Nivel 2)</Text>
@@ -7514,6 +7528,10 @@ Demasiado tarde.</Text>
 
 	<Text key="415013">Protección</Text>
 	<Text key="4150130">Protección contra todo tipo de daño.</Text>
+
+	<Text key="415014">CC Protect</Text>
+
+	<Text key="4150140">Protection against freezing, dizziness, falling and pulling effects.</Text>
 
 	<Text key="416001">Sangrado</Text>
 	<Text key="4160010">Un efecto negativo que inflige daño cada segundo.</Text>
