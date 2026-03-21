@@ -2726,33 +2726,36 @@ Demasiado tarde.</Text>
 	<Text key="2861">Has infligido {0} de daño físico crítico al jugador {1}.</Text>
 	<Text key="2862">Has infligido {0} de daño mágico al jugador {1}.</Text>
 	<Text key="2863">Has infligido {0} de daño mágico crítico al jugador {1}.</Text>
-
 	<Text key="2864">Recuperación de objetos</Text>
-
 	<Text key="2865">Aquí puedes recuperar objetos vendidos o descartados por error pagando 5 veces su precio de venta. Esta lista muestra los últimos 1000 objetos eliminados; los objetos más antiguos no pueden recuperarse. Ten en cuenta que esta lista se reiniciará cuando el servidor se reinicie.</Text>
-
 	<Text key="2866">Recuperación</Text>
-
 	<Text key="2867">Aquí puedes gestionar los espacios protegidos del inventario. Esto evita que los objetos en esos espacios se vendan o descarten accidentalmente.</Text>
-
 	<Text key="2868">Espacio Protegido</Text>
-
 	<Text key="2869">Haz clic derecho en los espacios del inventario que deseas proteger. Los objetos colocados en estos espacios no se verán afectados por ventas a NPC ni por acciones de descarte. Recuerda que la protección es por espacio individual.</Text>
-
 	<Text key="2870">Rellenar desde el inventario</Text>
-
 	<Text key="2871">La recompensa garantizada se otorgará si no se obtiene Tera después de 20 giros.</Text>
-
 	<Text key="2872">Moneda Olímpica:</Text>
-
 	<Text key="2873">Tienda Olímpica</Text>
-
 	<Text key="2874">Unirse a la próxima batalla</Text>
-
 	<Text key="2875">Salir de la próxima batalla</Text>
-	
-	
-	
+	<Text key="2876">Estadísticas de Guerra de Clanes</Text>
+	<Text key="2877">Altar Activado</Text>
+	<Text key="2878">Liga</Text>
+	<Text key="2879">Privada</Text>
+	<Text key="2880">Tu clan está participando en una partida activa. Si formas parte de esta batalla, podrás acceder al área antes de que comience la guerra.</Text>
+	<Text key="2881">Hora de inicio de la batalla</Text>
+	<Text key="2882">Iniciar ronda de batalla</Text>
+	<Text key="2883">Cancelar ronda de batalla</Text>
+	<Text key="2884">En {0} minutos</Text>
+	<Text key="2885">Rondas de batalla en curso</Text>
+	<Text key="2886">Tiempo restante hasta el inicio de la batalla:</Text>
+	<Text key="2887">Batalla iniciada:</Text>
+	<Text key="2888">Unirse</Text>
+	<Text key="2889">Introduce la contraseña.</Text>
+	<Text key="2890">Iniciar nueva ronda de batalla</Text>
+	<Text key="2891">Título de la batalla</Text>
+	<Text key="2892">Nueva contraseña</Text>
+	<Text key="2893">Puedes iniciar una guerra de clanes privada en cualquier momento. Estas batallas no están vinculadas al sistema de ligas. Para crear una nueva batalla, inicia una ronda y comparte la contraseña con el clan rival. Para unirte a una ronda existente, introduce la contraseña proporcionada.</Text>
 
 
 
@@ -3381,18 +3384,18 @@ Demasiado tarde.</Text>
 	<Text key="50107">Anillo</Text>
 	<Text key="50108">Anillo</Text>
 	<Text key="50109">Bolso</Text>
-	<Text key="50110">Casco [Pesado]</Text>
-	<Text key="50111">Casco [Pesado]</Text>
-	<Text key="50112">Guantelete [Pesado]</Text>
-	<Text key="50113">Botas [Pesadas]</Text>
-	<Text key="50114">Armadura [Ligera]</Text>
-	<Text key="50115">Casco [Ligero]</Text>
-	<Text key="50116">Guantelete [Ligero]</Text>
-	<Text key="50117">Botas [Ligeras]</Text>
-	<Text key="50118">Armadura [Túnica]</Text>
-	<Text key="50119">Casco [Túnica]</Text>
-	<Text key="50120">Guantelete [Túnica]</Text>
-	<Text key="50121">Botas [Túnica]</Text>
+	<Text key="50110">Armadura [Pesada]</Text>
+	<Text key="50111">Casco [Pesada]</Text>
+	<Text key="50112">Guantelete [Pesada]</Text>
+	<Text key="50113">Botas [Pesada]</Text>
+	<Text key="50114">Armadura [Media]</Text>
+	<Text key="50115">Casco [Media]</Text>
+	<Text key="50116">Guantelete [Media]</Text>
+	<Text key="50117">Botas [Media]</Text>
+	<Text key="50118">Armadura [Ligera]</Text>
+	<Text key="50119">Casco [Ligera]</Text>
+	<Text key="50120">Guantelete [Ligera]</Text>
+	<Text key="50121">Botas [Ligera]</Text>
 	<Text key="50122">Hacha [Herramienta]</Text>
 	<Text key="50123">Hacha [Herramienta]</Text>
 	<Text key="50124">Escarabajo [Herramienta]</Text>
@@ -5698,6 +5701,10 @@ Demasiado tarde.</Text>
 	<Text key="211806">Cofre de Recompensa de Twitch</Text>
 
 	<Text key="2118060">Puedes abrirlo haciendo clic derecho. Obtendrás un material valioso aleatorio. También existe la posibilidad de obtener Protección Tera.</Text>
+
+	<Text key="211807">Tesoro del Jefe</Text>
+
+	<Text key="2118070">Puedes abrirlo haciendo clic derecho. Obtendrás un material valioso aleatorio. También existe la posibilidad de obtener Protección Tera.</Text>
 
 
 
