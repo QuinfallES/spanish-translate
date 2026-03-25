@@ -16,7 +16,7 @@
 	<Text key="15">Colocación</Text>
 	<Text key="16">La habilidad anterior debe ser de nivel 1 o superior.</Text>
 	<Text key="17">Si la habilidad activa vinculada está abierta, usarás 2 puntos para desbloquear esta habilidad.</Text>
-	
+
 	<Text key="18">Guardián</Text>
 	<Text key="19">Vanguardía</Text>
 	<Text key="20">Caballero del Infierno</Text>
@@ -63,7 +63,7 @@
 	<Text key="60">Has fallado al objetivo.</Text>
 	<Text key="61">El enemigo no ha podido infligirte ningún daño.</Text>
 	<Text key="62">El enemigo te ha fallado.</Text>
-	<Text key="63">{1} falló y no te causó daño.</Text>
+	<Text key="63">{1} no pudo causarte ningún daño.</Text>
 	<Text key="64">{1} ha fallado.</Text>
 	<Text key="65">Necesitas una flecha.</Text>
 	<Text key="66">Hablar</Text>
@@ -84,80 +84,80 @@
 
 	<Text key="81">+2 % velocidad de recolección.</Text>
 	<Text key="82">+3 % velocidad de recolección.</Text>
-	<Text key="83">+2 % probabilidad de recolección x2.</Text>
-	<Text key="84">+2 % probabilidad de recolección x2.</Text>
-	<Text key="85">+4 % velocidad de recolección. +3 % probabilidad de recolección x2.</Text>
-	<Text key="86">+5 % velocidad de recolección. +3 % probabilidad de recolección x2.</Text>
-	<Text key="87">+6 % velocidad de recolección. +5 % probabilidad de recolección x2.</Text>
-	<Text key="88">+10 % probabilidad de recolección x2.</Text>
-	<Text key="89">+10 % probabilidad de recolección x2.</Text>
-	<Text key="90">+15 % probabilidad de recolección x2.</Text>
+	<Text key="83">+2 % de probabilidad de recolección doble.</Text>
+	<Text key="84">+2 % de probabilidad de recolección doble.</Text>
+	<Text key="85">+4 % de velocidad de recolección. +3 % de probabilidad de recolección doble.</Text>
+	<Text key="86">+5 % de velocidad de recolección. +3 % de probabilidad de recolección doble.</Text>
+	<Text key="87">+6 % de velocidad de recolección. +5 % de probabilidad de recolección doble.</Text>
+	<Text key="88">+10 % de probabilidad de recolección doble.</Text>
+	<Text key="89">+10 % de probabilidad de recolección doble.</Text>
+	<Text key="90">+15 % de probabilidad de recolección doble.</Text>
 
 	<Text key="91">+2 % velocidad de recolección.</Text>
 	<Text key="92">+3 % velocidad de recolección.</Text>
-	<Text key="93">+2 % probabilidad de recolección x2.</Text>
-	<Text key="94">+2 % probabilidad de recolección x2.</Text>
-	<Text key="95">+4 % velocidad de recolección. +3 % probabilidad de recolección x2.</Text>
-	<Text key="96">+5 % velocidad de recolección. +3 % probabilidad de recolección x2.</Text>
-	<Text key="97">+6 % velocidad de recolección. +5 % probabilidad de recolección x2.</Text>
-	<Text key="98">+10 % probabilidad de recolección x2.</Text>
-	<Text key="99">+10 % probabilidad de recolección x2.</Text>
-	<Text key="100">+15 % probabilidad de recolección x2.</Text>
+	<Text key="93">+2 % de probabilidad de recolección doble.</Text>
+	<Text key="94">+2 % de probabilidad de obtener doble recolección.</Text>
+	<Text key="95">+4 % de velocidad de recolección. +3 % de probabilidad de obtener doble recolección.</Text>
+	<Text key="96">+5 % de velocidad de recolección. +3 % de probabilidad de obtener doble recolección.</Text>
+	<Text key="97">+6 % de velocidad de recolección. +5 % de probabilidad de obtener doble recolección.</Text>
+	<Text key="98">+10 % de probabilidad de obtener doble recolección.</Text>
+	<Text key="99">+10 % de probabilidad de recolección doble.</Text>
+	<Text key="100">+15 % de probabilidad de recolección doble.</Text>
 
 	<Text key="101">+2 % velocidad de recolección.</Text>
 	<Text key="102">+3 % velocidad de recolección.</Text>
-	<Text key="103">+2 % probabilidad de recolección x2.</Text>
-	<Text key="104">+2 % probabilidad de recolección x2.</Text>
-	<Text key="105">+4 % velocidad de recolección. +3 % probabilidad de recolección x2.</Text>
-	<Text key="106">+5 % velocidad de recolección. +3 % probabilidad de recolección x2.</Text>
-	<Text key="107">+6 % velocidad de recolección. +5 % probabilidad de recolección x2.</Text>
-	<Text key="108">+10 % probabilidad de recolección x2.</Text>
-	<Text key="109">+10 % probabilidad de recolección x2.</Text>
-	<Text key="110">+15 % probabilidad de recolección x2.</Text>
+	<Text key="103">+2 % de probabilidad de recolección doble.</Text>
+	<Text key="104">+2 % de probabilidad de recolección doble.</Text>
+	<Text key="105">+4 % de velocidad de recolección. +3 % de probabilidad de recolección doble.</Text>
+	<Text key="106">+5 % de velocidad de recolección. +3 % de probabilidad de recolección doble.</Text>
+	<Text key="107">+6 % de velocidad de recolección. +5 % de probabilidad de recolección doble.</Text>
+	<Text key="108">+10 % de probabilidad de recolección doble.</Text>
+	<Text key="109">+10 % de probabilidad de recolección doble.</Text>
+	<Text key="110">+15 % de probabilidad de recolección doble.</Text>
 
 	<Text key="111">+2 % velocidad de pesca.</Text>
 	<Text key="112">+3 % velocidad de pesca.</Text>
-	<Text key="113">+3 % probabilidad de pesca x2.</Text>
-	<Text key="114">+4 % velocidad de pesca. +5 % velocidad de pesca automática.</Text>
-	<Text key="115">+4 % probabilidad de pesca x2. +7 % velocidad de pesca automática.</Text>
-	<Text key="116">+5 % probabilidad de captura de peces raros. +9 % velocidad de pesca automática.</Text>
-	<Text key="117">+5 % velocidad de pesca. +5 % probabilidad de pesca x2.</Text>
-	<Text key="118">+7 % probabilidad de pesca x2. +14 % velocidad de pesca automática.</Text>
-	<Text key="119">+7 % probabilidad de pesca x2. +14 % velocidad de pesca automática.</Text>
-	<Text key="120">+10 % probabilidad de pesca x2. +20 % velocidad de pesca automática.</Text>
+	<Text key="113">+3 % de probabilidad de pesca doble.</Text>
+	<Text key="114">+4 % de velocidad de pesca. +5 % de velocidad de pesca automática.</Text>
+	<Text key="115">+4 % de probabilidad de pesca doble. +7 % de velocidad de pesca automática.</Text>
+	<Text key="116">+5 % de probabilidad de capturar peces raros. +9 % de velocidad de pesca automática.</Text>
+	<Text key="117">+5 % de velocidad de pesca. +5 % de probabilidad de pesca doble.</Text>
+	<Text key="118">+7 % de probabilidad de pesca doble. +14 % de velocidad de pesca automática.</Text>
+	<Text key="119">+7 % de probabilidad de pesca doble. +14 % de velocidad de pesca automática.</Text>
+	<Text key="120">+10 % de probabilidad de pesca doble. +20 % de velocidad de pesca automática.</Text>
 
-	<Text key="121">+1 % probabilidad de recolección x2.</Text>
-	<Text key="122">+1 % probabilidad de recolección x2.</Text>
-	<Text key="123">+2 % probabilidad de recolección x2. +2 % bono de sigilo.</Text>
-	<Text key="124">+2 % probabilidad de recolección x2. +4 % bono de sigilo.</Text>
-	<Text key="125">+2 % probabilidad de recolección x2. +6 % bono de sigilo.</Text>
-	<Text key="126">+3 % probabilidad de recolección x2. +10 % bono de sigilo.</Text>
-	<Text key="127">+4 % probabilidad de recolección x2. +15 % bono de sigilo.</Text>
-	<Text key="128">+5 % probabilidad de recolección x2. +25 % bono de sigilo.</Text>
-	<Text key="129">+7 % probabilidad de recolección x2. +25 % bono de sigilo.</Text>
-	<Text key="130">+9 % probabilidad de recolección x2. +30 % bono de sigilo.</Text>
+	<Text key="121">+1 % de probabilidad de recolección doble.</Text>
+	<Text key="122">+1 % de probabilidad de recolección doble.</Text>
+	<Text key="123">+2 % de probabilidad de recolección doble. +2 % de bonificación de sigilo.</Text>
+	<Text key="124">+2 % de probabilidad de recolección doble. +4 % de bonificación de sigilo.</Text>
+	<Text key="125">+2 % de probabilidad de recolección doble. +6 % de bonificación de sigilo.</Text>
+	<Text key="126">+3 % de probabilidad de recolección doble. +10 % de bonificación de sigilo.</Text>
+	<Text key="127">+4 % de probabilidad de recolección doble. +15 % de bonificación de sigilo</Text>
+	<Text key="128">+5 % de probabilidad de recolección doble. +25 % de bonificación de sigilo.</Text>
+	<Text key="129">+7 % de probabilidad de recolección doble. +25 % de bonificación de sigilo.</Text>
+	<Text key="130">+9 % de probabilidad de recolección doble. +30 % de bonificación de sigilo.</Text>
 
 	<Text key="131">+2 % velocidad de fabricación.</Text>
 	<Text key="132">+2 % velocidad de fabricación.</Text>
-	<Text key="133">+2 % velocidad de fabricación. +2 % probabilidad de producción x2.</Text>
-	<Text key="134">+3 % velocidad de fabricación. +3 % probabilidad de producción x2.</Text>
-	<Text key="135">+3 % velocidad de fabricación. +4 % probabilidad de producción x2.</Text>
-	<Text key="136">+5 % probabilidad de producción x2.</Text>
+	<Text key="133">+2 % de velocidad de fabricación. +2 % de probabilidad de producción doble.</Text>
+	<Text key="134">+3 % de velocidad de fabricación. +3 % de probabilidad de producción doble.</Text>
+	<Text key="135">+3 % de velocidad de fabricación. +4 % de probabilidad de producción doble.</Text>
+	<Text key="136">+5 % de probabilidad de producción doble.</Text>
 	<Text key="137">+4 % velocidad de fabricación.</Text>
-	<Text key="138">+4 % velocidad de fabricación. +8 % probabilidad de producción x2.</Text>
-	<Text key="139">+4 % velocidad de fabricación. +8 % probabilidad de producción x2.</Text>
-	<Text key="140">+5 % velocidad de fabricación. +10 % probabilidad de producción x2.</Text>
+	<Text key="138">+4 % de velocidad de fabricación. +8 % de probabilidad de producción doble.</Text>
+	<Text key="139">+4 % de velocidad de fabricación. +8 % de probabilidad de producción doble.</Text>
+	<Text key="140">+5 % de velocidad de fabricación. +10 % de probabilidad de producción doble.</Text>
 
 	<Text key="141">+2 % velocidad de fabricación.</Text>
 	<Text key="142">+2 % velocidad de fabricación.</Text>
-	<Text key="143">+2 % velocidad de fabricación. +2 % probabilidad de producción x2.</Text>
-	<Text key="144">+3 % velocidad de fabricación. +3 % probabilidad de producción x2.</Text>
-	<Text key="145">+3 % velocidad de fabricación. +4 % probabilidad de producción x2.</Text>
-	<Text key="146">+5 % probabilidad de producción x2.</Text>
+	<Text key="143">+2 % de velocidad de fabricación. +2 % de probabilidad de producción doble.</Text>
+	<Text key="144">+3 % de velocidad de fabricación. +3 % de probabilidad de producción doble.</Text>
+	<Text key="145">+3 % de velocidad de fabricación. +4 % de probabilidad de producción doble.</Text>
+	<Text key="146">+5 % de probabilidad de producción doble.</Text>
 	<Text key="147">+4 % velocidad de fabricación.</Text>
-	<Text key="148">+4 % velocidad de fabricación. +8 % probabilidad de producción x2.</Text>
-	<Text key="149">+4 % velocidad de fabricación. +8 % probabilidad de producción x2.</Text>
-	<Text key="150">+5 % velocidad de fabricación. +10 % probabilidad de producción x2.</Text>
+	<Text key="148">+4 % de velocidad de fabricación. +8 % de probabilidad de producción doble.</Text>
+	<Text key="149">+4 % de velocidad de fabricación. +8 % de probabilidad de producción doble.</Text>
+	<Text key="150">+5 % de velocidad de fabricación. +10 % de probabilidad de producción doble.</Text>
 
 	<Text key="151">+3 % velocidad de fabricación.</Text>
 	<Text key="152">+3 % velocidad de fabricación. +15  niveles máximos de potencial.</Text>
@@ -167,30 +167,30 @@
 	<Text key="156">+5 % velocidad de fabricación. +15  niveles máximos de potencial.</Text>
 	<Text key="157">+6 % velocidad de fabricación. +15  niveles máximos de potencial.</Text>
 	<Text key="158">+8 % velocidad de fabricación. +15  niveles máximos de potencial.</Text>
-	<Text key="159">+8 % velocidad de fabricación. +10% de probabilidad de mejora de objeto. +10% de probabilidad de añadir Talismán y Piedra de Poder.</Text>
-	<Text key="160">+10 % velocidad de fabricación. +10% de probabilidad de mejora de objeto. +10% de probabilidad de añadir Talismán y Piedra de Poder.</Text>
+	<Text key="159">+8 % de velocidad de fabricación. +10 % de probabilidad de mejora de objetos. +10 % de probabilidad de añadir Talismán y Piedra de Poder.</Text>
+	<Text key="160">+10 % de velocidad de fabricación. +10 % de probabilidad de mejora de objetos. +10 % de probabilidad de añadir Talismán y Piedra de Poder.</Text>
 
-	<Text key="161">+3 % velocidad de fabricación.</Text>
-	<Text key="162">+3 % velocidad de fabricación. +15  niveles máximos de potencial.</Text>
-	<Text key="163">+4 % velocidad de fabricación. +15  niveles máximos de potencial.</Text>
-	<Text key="164">+4 % velocidad de fabricación. +15  niveles máximos de potencial.</Text>
-	<Text key="165">+5 % velocidad de fabricación. +15  niveles máximos de potencial.</Text>
-	<Text key="166">+5 % velocidad de fabricación. +15  niveles máximos de potencial.</Text>
-	<Text key="167">+6 % velocidad de fabricación. +15  niveles máximos de potencial.</Text>
-	<Text key="168">+8 % velocidad de fabricación. +15  niveles máximos de potencial.</Text>
-	<Text key="169">+8 % velocidad de fabricación. +10% de probabilidad de mejora de objeto. +10% de probabilidad de añadir Talismán y Piedra de Poder.</Text>
-	<Text key="170">+10 % velocidad de fabricación. +10% de probabilidad de mejora de objeto. +10% de probabilidad de añadir Talismán y Piedra de Poder.</Text>
+	<Text key="161">+3 % de velocidad de fabricación.</Text>
+	<Text key="162">+3 % de velocidad de fabricación. +15  niveles máximos de potencial.</Text>
+	<Text key="163">+4 % de velocidad de fabricación. +15  niveles máximos de potencial.</Text>
+	<Text key="164">+4 % de velocidad de fabricación. +15  niveles máximos de potencial.</Text>
+	<Text key="165">+5 % de velocidad de fabricación. +15  niveles máximos de potencial.</Text>
+	<Text key="166">+5 % de velocidad de fabricación. +15  niveles máximos de potencial.</Text>
+	<Text key="167">+6 % de velocidad de fabricación. +15  niveles máximos de potencial.</Text>
+	<Text key="168">+8 % de velocidad de fabricación. +15  niveles máximos de potencial.</Text>
+	<Text key="169">+8 % de velocidad de fabricación. +10% de probabilidad de mejora de objeto. +10% de probabilidad de añadir Talismán y Piedra de Poder.</Text>
+	<Text key="170">+10 % de velocidad de fabricación. +10 % de probabilidad de mejora de objetos. +10 % de probabilidad de añadir Talismán y Piedra de Poder.</Text>
 
-	<Text key="171">+2 % probabilidad de producción x2.</Text>
-	<Text key="172">+3 % probabilidad de producción x2.</Text>
-	<Text key="173">+4 % probabilidad de producción x2.</Text>
-	<Text key="174">+4 % probabilidad de producción x2.</Text>
-	<Text key="175">+5 % probabilidad de producción x2.</Text>
-	<Text key="176">+5 % probabilidad de producción x2.</Text>
-	<Text key="177">+7 % probabilidad de producción x2.</Text>
-	<Text key="178">+10 % probabilidad de producción x2.</Text>
-	<Text key="179">+10 % probabilidad de producción x2.</Text>
-	<Text key="180">+12 % probabilidad de producción x2.</Text>
+	<Text key="171">+2 % de probabilidad de obtener producción doble.</Text>
+	<Text key="172">+3 % de probabilidad de obtener producción doble.</Text>
+	<Text key="173">+4 % de probabilidad de obtener producción doble.</Text>
+	<Text key="174">+4 % de probabilidad de obtener producción doble.</Text>
+	<Text key="175">+5 % de probabilidad de obtener producción doble.</Text>
+	<Text key="176">+5 % de probabilidad de obtener producción doble.</Text>
+	<Text key="177">+7 % de probabilidad de obtener producción doble.</Text>
+	<Text key="178">+10 % de probabilidad de obtener producción doble.</Text>
+	<Text key="179">+10 % de probabilidad de obtener producción doble.</Text>
+	<Text key="180">+12 % de probabilidad de obtener producción doble.</Text>
 
 	<Text key="181">+5 % semillas obtenidas al cosechar.</Text>
 	<Text key="182">+5 % semillas obtenidas al cosechar.</Text>
@@ -603,32 +603,36 @@
 	<Text key="822">Canal - 2</Text>
 	<Text key="823">Canal - 3</Text>
 	<Text key="824">Canal - 4</Text>
-	<Text key="825">Todos los eventos PVP / PVE.
-+%10 Experiencia al cortar madera.
-+%10 Experiencia en Minería.
-+%10 Experiencia en Cosecha.
-+%10 Experiencia en Pesca.
-+%10 Experiencia en Caza.
+	<Text key="825">
+		Todos los eventos PVP / PVE.
+		+%10 Experiencia al cortar madera.
+		+%10 Experiencia en Minería.
+		+%10 Experiencia en Cosecha.
+		+%10 Experiencia en Pesca.
+		+%10 Experiencia en Caza.
 	</Text>
-	<Text key="826">Todos los eventos PVP / PVE.
-+%10 Experiencia en Cocina.
-+%10 Experiencia en Alquimia.
-+%10 Experiencia en Herrería de Armas.
-+%10 Experiencia en Herrería de Armaduras.
+	<Text key="826">
+		Todos los eventos PVP / PVE.
+		+%10 Experiencia en Cocina.
+		+%10 Experiencia en Alquimia.
+		+%10 Experiencia en Herrería de Armas.
+		+%10 Experiencia en Herrería de Armaduras.
 	</Text>
-	<Text key="827">Todos los eventos PVP / PVE.
-+%10 Experiencia en Ganadería.
-+%10 Experiencia en Cultivo.
+	<Text key="827">
+		Todos los eventos PVP / PVE.
+		+%10 Experiencia en Ganadería.
+		+%10 Experiencia en Cultivo.
 	</Text>
-	<Text key="828">Todos los eventos PVP / PVE.
-PVP/PK gratis fuera de las ciudades.
-+%15 Experiencia de Personaje.
-+%20 Experiencia en Corte de Madera.
-+%20 Experiencia en Minería.
-+%20 Experiencia en Cosecha.
-+%20 Experiencia en Caza.
-+%20 Experiencia, +%20 Ganado a Caravan Carrier.
-+%20 Experiencia, +%20 Ganado a Ladrón de Caravana.
+	<Text key="828">
+		Todos los eventos PVP / PVE.
+		PVP/PK gratis fuera de las ciudades.
+		+%15 Experiencia de Personaje.
+		+%20 Experiencia en Corte de Madera.
+		+%20 Experiencia en Minería.
+		+%20 Experiencia en Cosecha.
+		+%20 Experiencia en Caza.
+		+%20 Experiencia, +%20 Ganado a Caravan Carrier.
+		+%20 Experiencia, +%20 Ganado a Ladrón de Caravana.
 	</Text>
 	<Text key="829">Servidor:</Text>
 	<Text key="830">Gecikme:</Text>
@@ -636,7 +640,7 @@ PVP/PK gratis fuera de las ciudades.
 	<Text key="832">Acercar / Alejar</Text>
 	<Text key="833">Atrás</Text>
 	<Text key="834">Seleccionar Carácter</Text>
-	<Text key="835">Queda por borrar:</Text>
+	<Text key="835">Restante por eliminar:</Text>
 	<Text key="836">Cancelar</Text>
 	<Text key="837">Crear</Text>
 	<Text key="838">Borrar</Text>
@@ -899,8 +903,9 @@ PVP/PK gratis fuera de las ciudades.
 	<Text key="1095">Mostrar FPS</Text>
 	<Text key="1096">Mostrar PING (ms)</Text>
 	<Text key="1097">Hacer capturas de pantalla con la tecla PRTSC</Text>
-	<Text key="1098">Resolución de Captura de Pantalla:
-(Resolución actual del juego x valor elegido)
+	<Text key="1098">
+		Resolución de Captura de Pantalla:
+		(Resolución actual del juego x valor elegido)
 	</Text>
 	<Text key="1099">Cerrar HUD al tomar Captura de Pantalla</Text>
 	<Text key="1100">Tamaño de la Marca de Agua</Text>
@@ -968,10 +973,7 @@ PVP/PK gratis fuera de las ciudades.
 	<Text key="1162">¿Estás seguro de que quieres parar esta cría?</Text>
 	<Text key="1163">Esta montura de caravana está cargada de paquetes. Si la envías lejos, los paquetes se perderán, ¿estás seguro?</Text>
 	<Text key="1164">Si huyes de la batalla, perderás 50 puntos PVP. ¿Estás seguro?</Text>
-	<Text key="1165">¿Estás seguro de que quieres eliminar permanentemente este altar?
-
-Si lo confirmas, todos tus edificios, todos los objetos conectados y todos los objetos de tus cofres se borrarán permanentemente.
-	</Text>
+	<Text key="1165">¿Está seguro de que desea eliminar este altar de forma permanente? Si confirma, todos sus edificios, todos los objetos conectados y todos los objetos en sus cofres serán eliminados de manera permanente.</Text>
 	<Text key="1166">¿Estás seguro de que quieres abandonar la sala del tesoro?</Text>
 	<Text key="1167">¿Estás seguro de que se borrarán las misiones que realizaste en esta mesa?</Text>
 	<Text key="1168">¿Estás seguro de que quieres hacer esta misión?</Text>
@@ -1011,13 +1013,15 @@ Si lo confirmas, todos tus edificios, todos los objetos conectados y todos los o
 	<Text key="1202">Carrera automática (T)</Text>
 	<Text key="1203">Parar</Text>
 	<Text key="1204">Siguiente</Text>
-	<Text key="1205">En Mapamundi puedes Viajar Rápido y usar Portales. Puede ver información sobre la región que ha seleccionado.
+	<Text key="1205">
+		En Mapamundi puedes Viajar Rápido y usar Portales. Puede ver información sobre la región que ha seleccionado.
 
-Para auto-correr, puedes hacer clic en los puntos del camino para ver información sobre la distancia e iniciarlo. Ten en cuenta que necesitas estar en un camino marcado para hacer esto.
+		Para auto-correr, puedes hacer clic en los puntos del camino para ver información sobre la distancia e iniciarlo. Ten en cuenta que necesitas estar en un camino marcado para hacer esto.
 	</Text>
 	<Text key="1206">Aquí puedes filtrar los marcadores del mapa.</Text>
-	<Text key="1207">Viento
-Dirección
+	<Text key="1207">
+		Viento
+		Dirección
 	</Text>
 	<Text key="1208">Viaje rápido</Text>
 	<Text key="1209">Peso de su inventario:</Text>
@@ -1029,27 +1033,31 @@ Dirección
 	<Text key="1215">Máximo mismo tipo de banco de trabajo:</Text>
 	<Text key="1216">No lo has alquilado.</Text>
 	<Text key="1217">El contrato de alquiler está a punto de expirar:</Text>
-	<Text key="1218">Cuando expire el contrato de alquiler, todo tu contenido en esta casa se borrará permanentemente.</Text>
+	<Text key="1218">Cuando el contrato de arrendamiento expire, todo tu contenido en esta casa será eliminado de forma permanente.</Text>
 	<Text key="1219">Altitud:</Text>
 	<Text key="1220">Temperatura</Text>
 	<Text key="1221">Fuentes de agua</Text>
 	<Text key="1222">Fertilidad del suelo</Text>
 	<Text key="1223">Cuando el contrato de arrendamiento expire, todo tu contenido en esta granja será borrado permanentemente.</Text>
-	<Text key="1224">En esta área, puedes construir un altar individual o de clan y comenzar a construir tus propios edificios.
+	<Text key="1224">
+		En esta área, puedes construir un altar individual o de clan y comenzar a construir tus propios edificios.
 
-	También puedes practicar la agricultura y la ganadería en el área del altar.
+		También puedes practicar la agricultura y la ganadería en el área del altar.
 
-	Cuando tienes un altar en esta área, los puntos de experiencia de profesión obtenidos en un radio de 5 km aumentan en un 50 %, los puntos de experiencia de armas en un 50 % y la ganancia de experiencia de personaje en un 30 %.
+		Cuando tienes un altar en esta área, los puntos de experiencia de profesión obtenidos en un radio de 5 km aumentan en un 50 %, los puntos de experiencia de armas en un 50 % y la ganancia de experiencia de personaje en un 30 %.
 
-	Ten en cuenta que serás vulnerable a los ataques de jugadores provenientes de otras zonas peligrosas. Los jugadores enemigos también pueden destruir tus edificios en tiempo real y robar los objetos dejados en esta área.
+		Ten en cuenta que serás vulnerable a los ataques de jugadores provenientes de otras zonas peligrosas. Los jugadores enemigos también pueden destruir tus edificios en tiempo real y robar los objetos dejados en esta área.
 
-	Recuerda usar herramientas de defensa automática para proteger tus edificios.</Text>
+		Recuerda usar herramientas de defensa automática para proteger tus edificios.
+	</Text>
 
-	<Text key="1225">En esta área, puedes construir un altar individual o de clan y comenzar a construir tus propios edificios.
+	<Text key="1225">
+		En esta área, puedes construir un altar individual o de clan y comenzar a construir tus propios edificios.
 
-	También puedes practicar la agricultura y la ganadería en el área del altar.
+		También puedes practicar la agricultura y la ganadería en el área del altar.
 
-	Los jugadores no pueden dañar tus edificios en esta área.</Text>
+		Los jugadores no pueden dañar tus edificios en esta área.
+	</Text>
 	<Text key="1226">Armadura</Text>
 	<Text key="1227">Arma</Text>
 	<Text key="1228">Joyas</Text>
@@ -1089,9 +1097,11 @@ Dirección
 	<Text key="1262">Imprimir</Text>
 	<Text key="1263">Caminar</Text>
 	<Text key="1264">Rueda mientras te mueves</Text>
-	<Text key="1265">Si no quieres usar tu puño para los Ataques Básicos, arma primero tu arma. Si tu ataque es una habilidad, el arma se equipa directamente.
+	<Text key="1265">
+		Si no quieres usar tu puño para los Ataques Básicos, arma primero tu arma. Si tu ataque es una habilidad, el arma se equipa directamente.
 
-Mata al primer enemigo con métodos de ataque básico.</Text>
+		Mata al primer enemigo con métodos de ataque básico.
+	</Text>
 	<Text key="1266">Armar Arma</Text>
 	<Text key="1267">Ataque Básico</Text>
 	<Text key="1268">Ataque de Carga</Text>
@@ -1300,7 +1310,7 @@ Mata al primer enemigo con métodos de ataque básico.</Text>
 	<Text key="1471">Sin movimiento/usando habilidad.</Text>
 	<Text key="1472">¿Estás seguro de que quieres borrarlo?</Text>
 	<Text key="1473">Borrar</Text>
-	<Text key="1474">Borrar</Text>
+	<Text key="1474">Dividir</Text>
 	<Text key="1475">Aquí puedes ver los objetos que has obtenido. Puedes equipar los objetos que quieras haciendo clic con el botón derecho o arrastrándolos.</Text>
 	<Text key="1476">Pesada</Text>
 	<Text key="1477">Media</Text>
@@ -1383,9 +1393,11 @@ Mata al primer enemigo con métodos de ataque básico.</Text>
 	<Text key="1554">Puedes usar agua fresca de lagos y ríos para regar las plantas.</Text>
 	<Text key="1555">Los cofres del tesoro que encuentres en las parcelas pueden darte objetos valiosos y algunas piedras de puzle de la sala del tesoro. También puedes comprar piezas de puzle a otros jugadores a través del mercado central.</Text>
 	<Text key="1556">El Cazador de tesoros es una profesión con la que se pueden obtener diversos objetos y objetos especiales abriendo cofres en salas del tesoro ocultas en distintas regiones del mundo de Quinfall. Esta profesión ofrece a los jugadores la posibilidad de utilizar sus habilidades de exploración e investigación para encontrar y abrir tesoros ocultos. Cada cofre contiene objetos únicos y raros, por lo que la profesión de cazador de tesoros ofrece a los jugadores aventuras inolvidables y valiosas recompensas.</Text>
-	<Text key="1557">Con las piedras de puzle puedes entrar en las salas del tesoro marcadas en el mapa. Ten en cuenta que solo puedes entrar con las piedras de puzle necesarias y que estos requisitos están sujetos a cambios.
+	<Text key="1557">
+		Con las piedras de puzle puedes entrar en las salas del tesoro marcadas en el mapa. Ten en cuenta que solo puedes entrar con las piedras de puzle necesarias y que estos requisitos están sujetos a cambios.
 
-El cofre del tesoro que encuentres en las salas del tesoro te proporciona objetos y materiales más valiosos.</Text>
+		El cofre del tesoro que encuentres en las salas del tesoro te proporciona objetos y materiales más valiosos.
+	</Text>
 	<Text key="1558">Puedes alquilar monturas de caravana al encargado de caravanas de cada ciudad importante. Puedes ganar plata vendiendo cargamentos de los gestores de caravanas a otras ciudades importantes por un precio establecido. Cuanto más lejos entregues mercancías a un jefe de caravana, más ganarás. Cada montura de caravana tiene ventajas en diferentes biomas. Debes elegir tu montura en función de los puntos que hayas identificado para el viaje en caravana.</Text>
 	<Text key="1559">Transportista de caravanas se refiere a un grupo de profesiones en el mundo del juego que, a cambio de una comisión de algunos funcionarios, intentan vender los objetos que reciben a un precio más alto en varios biomas o regiones. El precio de ganga puede aumentar en función de la distancia del destino. Sin embargo, un factor importante a tener en cuenta es el grupo profesional Ladrón. Este grupo profesional puede robar tus pertenencias, por lo que es importante que los jugadores actúen de forma colectiva para poder aumentar la seguridad. La facción Caravan Carrier ofrece a los jugadores una experiencia única en estrategia económica y gestión de peligros.</Text>
 	<Text key="1560">Ten cuidado con los ladrones de caravanas, cuando tu montura muera, tu carga caerá al suelo y será robada por los ladrones de caravanas. Además, no te alejes mucho de tu montura de caravana, las monturas de caravana vacías son objetivos más fáciles.</Text>
@@ -1594,23 +1606,31 @@ El cofre del tesoro que encuentres en las salas del tesoro te proporciona objeto
 	<Text key="1763">Tiempo en el campo</Text>
 	<Text key="1764">Puntos</Text>
 	<Text key="1765">Guía de Batalla de Arena</Text>
-	<Text key="1766">Puedes conseguir puntos para tu equipo matando a jugadores enemigos.
+	<Text key="1766">
+		Puedes conseguir puntos para tu equipo matando a jugadores enemigos.
 
-Al final del tiempo, el equipo ganador recibe valiosos premios. Los equipos perdedores reciben premios de bajo nivel.</Text>
+		Al final del tiempo, el equipo ganador recibe valiosos premios. Los equipos perdedores reciben premios de bajo nivel.
+	</Text>
 	<Text key="1767">Si terminas entre los 3 primeros con tus puntos individuales, puedes ganar valiosos premios extra. Puedes usar la tecla TAB para ver la tabla de clasificación.</Text>
 	<Text key="1768">Premios que se pueden conseguir:</Text>
-	<Text key="1769">Un jugador de tu equipo tiene que capturar la bandera en el punto central.
+	<Text key="1769">
+		Un jugador de tu equipo tiene que capturar la bandera en el punto central.
 
-El jugador que capturó la bandera debe llevarla al círculo en el punto de partida de su equipo.</Text>
+		El jugador que capturó la bandera debe llevarla al círculo en el punto de partida de su equipo.
+	</Text>
 	<Text key="1770">Los equipos enemigos querrán llevar la bandera al círculo frente a su punto de partida. Matando al portador de la bandera puedes soltar la bandera y capturarla.</Text>
 	<Text key="1771">Si terminas entre los 3 primeros con tus puntos individuales, puedes ganar valiosos premios extra. Puedes usar la tecla TAB para ver la tabla de clasificación.</Text>
-	<Text key="1772">Debes capturar las 4 piedras santas que aparecen en la brújula y en el mapa.
+	<Text key="1772">
+		Debes capturar las 4 piedras santas que aparecen en la brújula y en el mapa.
 
-3 piedras santas dan 1 punto por segundo, mientras que la piedra santa del punto central da 2 puntos por segundo.</Text>
+		3 piedras santas dan 1 punto por segundo, mientras que la piedra santa del punto central da 2 puntos por segundo.
+	</Text>
 	<Text key="1773">Si terminas entre los 3 primeros con tus puntos individuales, puedes ganar valiosos premios extra. Puedes usar la tecla TAB para ver la tabla de clasificación.</Text>
-	<Text key="1774">Debes entrar en el círculo situado en el punto central. Si no hay jugadores enemigos dentro del círculo, tu equipo anotará puntos cada segundo.
+	<Text key="1774">
+		Debes entrar en el círculo situado en el punto central. Si no hay jugadores enemigos dentro del círculo, tu equipo anotará puntos cada segundo.
 
-No debe haber ningún jugador enemigo dentro del círculo. De lo contrario, dejará de otorgar puntos.</Text>
+		No debe haber ningún jugador enemigo dentro del círculo. De lo contrario, dejará de otorgar puntos.
+	</Text>
 	<Text key="1775">Si terminas entre los 3 primeros con tus puntos individuales, puedes ganar valiosos premios extra. Puedes usar la tecla TAB para ver la clasificación.</Text>
 	<Text key="1776">Herrero</Text>
 	<Text key="1777">Puedes arrastrar o hacer clic con el botón derecho del ratón en los objetos de tu inventario que quieras reparar al cuadro de abajo.</Text>
@@ -1626,9 +1646,11 @@ No debe haber ningún jugador enemigo dentro del círculo. De lo contrario, deja
 	<Text key="1787">Tu altar comenzará a decaer, junto con todos los objetos y edificios anexos, una vez transcurrido el tiempo de inicio de decaimiento especificado. Puedes cargar las necesidades especificadas en la sección Almacenamiento.</Text>
 	<Text key="1788">Necesidades para 24 Horas:</Text>
 	<Text key="1789">Almacenamiento:</Text>
-	<Text key="1790">Aquí se almacenan todos los objetos perdidos y todos los materiales que contengan tus pertenencias. Si estás en terreno peligroso y tus edificios son atacados, los objetos rotos se almacenarán aquí. Sin embargo, si los atacantes destruyen también este altar, podrán acceder a estos objetos.
+	<Text key="1790">
+		Aquí se almacenan todos los objetos perdidos y todos los materiales que contengan tus pertenencias. Si estás en terreno peligroso y tus edificios son atacados, los objetos rotos se almacenarán aquí. Sin embargo, si los atacantes destruyen también este altar, podrán acceder a estos objetos.
 
-Ten en cuenta que los objetos almacenados aquí se destruirán por completo al cabo de 72 horas.</Text>
+		Ten en cuenta que los objetos almacenados aquí se destruirán por completo al cabo de 72 horas.
+	</Text>
 	<Text key="1791">Cofre Grande</Text>
 	<Text key="1792">Arcón</Text>
 	<Text key="1793">Arcón del Tesoro</Text>
@@ -2199,20 +2221,24 @@ Ten en cuenta que los objetos almacenados aquí se destruirán por completo al c
 	<Text key="2359">Haz clic derecho con el inventario abierto para transferirlo al inventario. Haz clic derecho con el inventario cerrado para transferirlo a tu almacén actual.</Text>
 	<Text key="2360">Total de objetos:</Text>
 	<Text key="2361">A través de cada desafío, su apoyo inquebrantable ha sido nuestra mayor fortaleza. Este recuerdo exclusivo no es solo una recompensa, sino un símbolo de los obstáculos que hemos superado juntos. Gracias por su paciencia y lealtad, los verdaderos héroes nunca son olvidados.</Text>
-	<Text key="2362">Evento de EXP activado:  
-+50% EXP de personaje  
-+50% EXP de arma  
-+50% EXP de profesión  
-+50% EXP de mascota  
-+50% EXP de montura  
-+50% EXP de santuario  </Text>  
-	<Text key="2363">Evento de EXP activado:  
-+100% EXP de personaje  
-+100% EXP de arma  
-+100% EXP de profesión  
-+100% EXP de mascota  
-+100% EXP de montura  
-+100% EXP de santuario  </Text>
+	<Text key="2362">
+		Evento de EXP activado:
+		+50% EXP de personaje
+		+50% EXP de arma
+		+50% EXP de profesión
+		+50% EXP de mascota
+		+50% EXP de montura
+		+50% EXP de santuario
+	</Text>
+	<Text key="2363">
+		Evento de EXP activado:
+		+100% EXP de personaje
+		+100% EXP de arma
+		+100% EXP de profesión
+		+100% EXP de mascota
+		+100% EXP de montura
+		+100% EXP de santuario
+	</Text>
 	<Text key="2364">Hora</Text>
 	<Text key="2365">Minuto</Text>
 	<Text key="2366">Segundo</Text>
@@ -2339,21 +2365,23 @@ Ten en cuenta que los objetos almacenados aquí se destruirán por completo al c
 	<Text key="2487">4 Horas</Text>
 	<Text key="2488">7 Horas</Text>
 	<Text key="2489">10 Horas</Text>
-	<Text key="2490">El Ojo Desvanecido de Pelyonas
+	<Text key="2490">
+		El Ojo Desvanecido de Pelyonas
 
-Pelthera no habla, pero conoce el anillo de plata.
-Cada ofrenda zumba por sus venas de piedra, despertando un antiguo voto.
+		Pelthera no habla, pero conoce el anillo de plata.
+		Cada ofrenda zumba por sus venas de piedra, despertando un antiguo voto.
 
-Quienes se colocan bajo su mirada empiezan a ver lo invisible.
-Cadáveres en descomposición ceden lo que nunca tuvieron.
-Bestias olvidadas dejan caer lo que nunca debió encontrarse.
-Las armas se vuelven más pesadas en la mano, más hambrientas en el silencio.
-Y la experiencia dobla niveles: ya no suben, saltan.
+		Quienes se colocan bajo su mirada empiezan a ver lo invisible.
+		Cadáveres en descomposición ceden lo que nunca tuvieron.
+		Bestias olvidadas dejan caer lo que nunca debió encontrarse.
+		Las armas se vuelven más pesadas en la mano, más hambrientas en el silencio.
+		Y la experiencia dobla niveles: ya no suben, saltan.
 
-Pero nada es gratis.
-Lo que tomas, Pelthera lo recuerda.
-Dicen que sus sueños susurran devolverlo.
-Demasiado tarde.</Text>
+		Pero nada es gratis.
+		Lo que tomas, Pelthera lo recuerda.
+		Dicen que sus sueños susurran devolverlo.
+		Demasiado tarde.
+	</Text>
 	<Text key="2491">Entrar como Espectador</Text>
 	<Text key="2492">Buscando...</Text>
 	<Text key="2493">Persona</Text>
@@ -2581,10 +2609,14 @@ Demasiado tarde.</Text>
 
 
 	<Text key="2720">Bonificaciones del Banco de Trabajo:</Text>
-	<Text key="2721">- +20% velocidad de procesamiento.
-- 5% de probabilidad extra de producción doble.</Text>
-	<Text key="2722">- +40% velocidad de procesamiento.
-- 10% de probabilidad extra de producción doble.</Text>
+	<Text key="2721">
+		- +20% velocidad de procesamiento.
+		- 5% de probabilidad extra de producción doble.
+	</Text>
+	<Text key="2722">
+		- +40% velocidad de procesamiento.
+		- 10% de probabilidad extra de producción doble.
+	</Text>
 	<Text key="2723">Piedras de Poder</Text>
 	<Text key="2724">Talismán [Bonificación de Conjunto]</Text>
 	<Text key="2725">Recursos obtenibles:</Text>
@@ -2756,8 +2788,14 @@ Demasiado tarde.</Text>
 	<Text key="2891">Título de la batalla</Text>
 	<Text key="2892">Nueva contraseña</Text>
 	<Text key="2893">Puedes iniciar una guerra de clanes privada en cualquier momento. Estas batallas no están vinculadas al sistema de ligas. Para crear una nueva batalla, inicia una ronda y comparte la contraseña con el clan rival. Para unirte a una ronda existente, introduce la contraseña proporcionada.</Text>
-
-
+	<Text key="2894">Moneda PVP</Text>
+	<Text key="2895">Moneda PVE</Text>
+	<Text key="2896">Mercado de Monedas PVP</Text>
+	<Text key="2897">Mercado de Monedas PVE</Text>
+	<Text key="2898">Rueda de Premio Armadura Dracónica</Text>
+	<Text key="2899">Armadura Dracónica</Text>
+	
+	
 
 
 	<Text key="40010">Luchador Principiante</Text>
@@ -2990,7 +3028,7 @@ Demasiado tarde.</Text>
 	<Text key="45017">Raíz Dulce</Text>
 	<Text key="45018">Albahaca Sombría</Text>
 	<Text key="45019">Lirio Místico</Text>
-	
+
 
 	<Text key="45501">[Joven] Aliso</Text>
 	<Text key="45502">[Maduro] Aliso</Text>
@@ -3130,7 +3168,7 @@ Demasiado tarde.</Text>
 	<Text key="46208">Puerto de Ellingliers</Text>
 	<Text key="46209">Puerto de Traystable</Text>
 	<Text key="46210">Puerto Silvercrest</Text>
-	
+
 	<Text key="46301">Migftwall Tierras Salvajes</Text>
 	<Text key="46302">Cementerio de Salvajes</Text>
 	<Text key="46303">Valle del Origen del Alma Envolvente</Text>
@@ -3207,7 +3245,7 @@ Demasiado tarde.</Text>
 	<Text key="46374">Ruinas de Golmagne</Text>
 	<Text key="46375">Ruinas de Bellerath</Text>
 	<Text key="46376">Guarida de Colmillo Sombrío</Text>
-	
+
 	<Text key="46501">Laberinto Más Profundo</Text>
 	<Text key="46502">Punto Mugriento</Text>
 	<Text key="46503">Cámaras Tranquilas</Text>
@@ -3224,7 +3262,7 @@ Demasiado tarde.</Text>
 	<Text key="46601">Drakkmorn Hollow</Text>
 	<Text key="46602">Abyssora Sanctum</Text>
 	<Text key="46603">Gravemourn Keep</Text>
-	
+
 
 
 
@@ -3354,15 +3392,15 @@ Demasiado tarde.</Text>
 	<Text key="49270">Conjunto Garra de Dragón</Text>
 	<Text key="49271">Conjunto del Catalizador Sobrenatural</Text>
 	<Text key="49272">Conjunto de la Armonía Divina</Text>
-	
-	
-	
-	
-	
-	
-	
-	
-	
+
+
+
+
+
+
+
+
+
 	<Text key="50001">Espada</Text>
 	<Text key="50002">Escudo</Text>
 	<Text key="50003">Espada a dos manos</Text>
@@ -3401,7 +3439,7 @@ Demasiado tarde.</Text>
 	<Text key="50124">Escarabajo [Herramienta]</Text>
 	<Text key="50125">Cañas de pescar [Herramienta]</Text>
 	<Text key="50126">Cuchillo de caza [Herramienta]</Text>
-	
+
 	<Text key="50201">Material</Text>
 	<Text key="50202">Material utilizable</Text>
 	<Text key="50203">Poción</Text>
@@ -3458,11 +3496,11 @@ Demasiado tarde.</Text>
 	<Text key="99999">Todos</Text>
 
 
-	
-	
-	
-	
-	
+
+
+
+
+
 
 	<Text key="50501">Estándar</Text>
 	<Text key="50502">Común</Text>
@@ -3547,7 +3585,7 @@ Demasiado tarde.</Text>
 	<Text key="101524">Crimson Crescent</Text>
 	<Text key="101525">Divine Sword</Text>
 	<Text key="101526">Dynasty Sword</Text>
-	
+
 	<Text key="102001">Escudo de protección</Text>
 	<Text key="102002">Escudo de Novato</Text>
 	<Text key="102003">Escudo de Duelista</Text>
@@ -3586,7 +3624,7 @@ Demasiado tarde.</Text>
 	<Text key="102524">Artemis</Text>
 	<Text key="102525">Twin Angel</Text>
 	<Text key="102526">Twin Angel</Text>
-	
+
 	<Text key="103001">Espada Roja de los Héroes</Text>
 	<Text key="103002">Espada de la Mañana</Text>
 	<Text key="103003">Claymore del Señor de la Guerra</Text>
@@ -3624,7 +3662,7 @@ Demasiado tarde.</Text>
 	<Text key="103523">Embergrasp</Text>
 	<Text key="103524">Divine Two Hand Sword</Text>
 	<Text key="103525">Dynasty Two Hand Sword</Text>
-	
+
 	<Text key="104001">Lanza Novicia</Text>
 	<Text key="104002">Lanza Venenosa</Text>
 	<Text key="104003">Lanza de filo cortante</Text>
@@ -3651,7 +3689,7 @@ Demasiado tarde.</Text>
 	<Text key="104512">Hellchant</Text>
 	<Text key="104513">Spear of Vengeance</Text>
 	<Text key="104514">Lion</Text>
-	
+
 	<Text key="105001">Hacha de novato</Text>
 	<Text key="105002">Hacha de los cuervos</Text>
 	<Text key="105003">Hacha de guardián</Text>
@@ -3692,7 +3730,7 @@ Demasiado tarde.</Text>
 	<Text key="105526">Devine</Text>
 	<Text key="105527">Execution</Text>
 	<Text key="105528">Execution</Text>
-	
+
 	<Text key="106001">Daga Sombría</Text>
 	<Text key="106002">Daga doble de novato</Text>
 	<Text key="106003">Daga doble de élite</Text>
@@ -3718,7 +3756,7 @@ Demasiado tarde.</Text>
 	<Text key="106511">Noctblade</Text>
 	<Text key="106512">Divine Dual Dagger</Text>
 	<Text key="106513">Dynasty Dual Dagger</Text>
-	
+
 	<Text key="107001">Arco del Ojo Muerto</Text>
 	<Text key="107002">Arquero de madera de abedul</Text>
 	<Text key="107003">Susurro de la Muerte del Gran Maestro</Text>
@@ -3744,7 +3782,7 @@ Demasiado tarde.</Text>
 	<Text key="107511">Talonstride</Text>
 	<Text key="107512">Varnclaw</Text>
 	<Text key="107513">Gildmourne</Text>
-	
+
 	<Text key="108001">Ballesta de repetición de cazador</Text>
 	<Text key="108002">Ballesta de novato</Text>
 	<Text key="108003">Ballesta de veterano</Text>
@@ -3769,7 +3807,7 @@ Demasiado tarde.</Text>
 	<Text key="108510">Dawnbringer</Text>
 	<Text key="108511">Nightbringer</Text>
 	<Text key="108512">Headhunter</Text>
-	
+
 	<Text key="109001">Bastón de Élite</Text>
 	<Text key="109002">Bastón de poder del mago</Text>
 	<Text key="109003">Enfoque Elemental</Text>
@@ -3872,7 +3910,7 @@ Demasiado tarde.</Text>
 	<Text key="109576">Blood Crystal</Text>
 	<Text key="109577">Hell Hole</Text>
 	<Text key="109578">Hell Hole</Text>
-	
+
 	<Text key="111001">Martillo de Guerra de la Fortuna</Text>
 	<Text key="111002">Martillo de Guerra Novato</Text>
 	<Text key="111003">Rompedor de Yunques</Text>
@@ -3908,24 +3946,24 @@ Demasiado tarde.</Text>
 	<Text key="111521">Varnomir</Text>
 	<Text key="111522">Solanar</Text>
 	<Text key="111523">Corpse</Text>
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 	<Text key="121001">Armadura Helada</Text>
 	<Text key="121002">Armadura forjada por la tormenta</Text>
 	<Text key="121003">Escudo de Armadura</Text>
@@ -3974,9 +4012,9 @@ Demasiado tarde.</Text>
 	<Text key="124010">Botas atronadoras</Text>
 	<Text key="124011">Botas de acero</Text>
 
-	
-	
-	
+
+
+
 	<Text key="125001">Armadura de Piedra</Text>
 	<Text key="125002">Armadura de caballero</Text>
 	<Text key="125003">Armadura de Reina</Text>
@@ -4026,15 +4064,15 @@ Demasiado tarde.</Text>
 	<Text key="128011">Botas de piedra de sangre</Text>
 
 
-	
-	
-	
-	
-	
-	
-	
-	
-	
+
+
+
+
+
+
+
+
+
 
 	<Text key="131001">Armadura del bosque</Text>
 	<Text key="131002">Armadura Carmesí</Text>
@@ -4138,9 +4176,9 @@ Demasiado tarde.</Text>
 
 
 
-	
-	
-	
+
+
+
 
 
 
@@ -4245,8 +4283,8 @@ Demasiado tarde.</Text>
 	<Text key="148011">Botas de Fuego</Text>
 
 
-	
-	
+
+
 
 	<Text key="149001">Legado del Dragón Celestial</Text>
 	<Text key="149002">Caballero templario legendario</Text>
@@ -4325,6 +4363,9 @@ Demasiado tarde.</Text>
 	<Text key="149075">Majestic Paladin (Silver-Black-Red)</Text>
 	<Text key="149076">Majestic Paladin (Silver-Red)</Text>
 	<Text key="149077">Dynasty Armor</Text>
+	<Text key="149078">Draconic Armor (Purple)</Text>
+	<Text key="149079">Draconic Armor (Red)</Text>
+	<Text key="149080">Draconic Armor (Green)</Text>
 	
 	<Text key="149501">Reina Blanca Elegancia</Text>
 	<Text key="149502">Sonido de la Oscuridad</Text>
@@ -4431,6 +4472,9 @@ Demasiado tarde.</Text>
 	<Text key="149603">Majestic Paladin (Silver-Black-Red)</Text>
 	<Text key="149604">Majestic Paladin (Silver-Red)</Text>
 	<Text key="149605">Dynasty Armor</Text>
+	<Text key="149606">Draconic Armor (Purple)</Text>
+	<Text key="149607">Draconic Armor (Red)</Text>
+	<Text key="149608">Draconic Armor (Green)</Text>
 	
 	<Text key="150001">Casco Celestial</Text>
 	<Text key="150002">Visaje de gorgona</Text>
@@ -4462,15 +4506,15 @@ Demasiado tarde.</Text>
 	<Text key="150028">Guardián Helado</Text>
 	<Text key="150029">Gravemark Hellsteel</Text>
 	<Text key="150030">Eidolon of Frostveil</Text>
-	
-	
-	
-	
-	
-	
-	
-	
-	
+
+
+
+
+
+
+
+
+
 	<Text key="151001">Amuleto de protección</Text>
 	<Text key="151002">Monedero encantado</Text>
 	<Text key="151003">Talismán de la Serenidad</Text>
@@ -4816,8 +4860,8 @@ Demasiado tarde.</Text>
 	<Text key="2101560">Planta de calidad media obtenida del bioma pradera. Puede usarse en artesanía.</Text>
 	<Text key="210157">Algodón [Calidad Alta]</Text>
 	<Text key="2101570">Planta de alta calidad obtenida del bioma de los pastizales. Puede usarse en artesanía.</Text>
-	
-	
+
+
 
 
 	<Text key="210201">Piedra de seta [Calidad baja]</Text>
@@ -4882,7 +4926,7 @@ Demasiado tarde.</Text>
 	<Text key="2102260">Mena de calidad media obtenida del bioma del desierto. Puede usarse en artesanía.</Text>
 	<Text key="210227">Piedra Negra Brillante [Calidad Alta]</Text>
 	<Text key="2102270">Mena de alta calidad obtenida del bioma del desierto. Puede usarse en artesanía.</Text>
-	
+
 	<Text key="210228">Carbón [Calidad baja]</Text>
 	<Text key="2102280">Mena de baja calidad obtenida del bioma nevado. Puede usarse en artesanía.</Text>
 	<Text key="210229">Carbón [Calidad Media]</Text>
@@ -4969,8 +5013,8 @@ Demasiado tarde.</Text>
 	<Text key="210353">Piedra [Calidad Alta]</Text>
 	<Text key="2103530">Piedra de alta calidad de cualquier bioma. Se puede utilizar en artesanía y construcción.</Text>
 
-	
-	
+
+
 	<Text key="210401">Agua dulce</Text>
 	<Text key="2104010">Se obtiene de lagos y ríos. Se puede utilizar en artesanía.</Text>
 	<Text key="210402">Agua salada</Text>
@@ -5103,8 +5147,8 @@ Demasiado tarde.</Text>
 	<Text key="2104560">No puede usarse en ninguna producción; puedes venderla a un vendedor.</Text>
 
 
-	
-	
+
+
 
 	<Text key="210601">Concha de Tortuga [Calidad Baja]</Text>
 	<Text key="2106010">Obtenido de tortugas. Puede usarse en artesanía.</Text>
@@ -5264,7 +5308,7 @@ Demasiado tarde.</Text>
 
 
 
-	
+
 	<Text key="210801">Azúcar</Text>
 	<Text key="2108010">Puede comprarse a los cocineros. Se usa en artesanía.</Text>
 	<Text key="210802">Sal de Roca</Text>
@@ -5284,10 +5328,10 @@ Demasiado tarde.</Text>
 	<Text key="210809">Harina</Text>
 	<Text key="2108090">Puede comprarse a los cocineros. Se utiliza en artesanía.</Text>
 
-	
-	
-	
-	
+
+
+
+
 	<Text key="210851">Ácido cítrico</Text>
 	<Text key="2108510">Puede comprarse a los alquimistas. Se utiliza en artesanía.</Text>
 	<Text key="210852">Espíritu de Sal</Text>
@@ -5310,7 +5354,7 @@ Demasiado tarde.</Text>
 	<Text key="2108600">Puede comprarse a los alquimistas. Se utiliza para fabricar.</Text>
 
 
-	
+
 	<Text key="210901">Aumentador de capacidad del clan</Text>
 	<Text key="2109010">Material utilizado para aumentar la capacidad del clan. {2}{2}{0}Este objeto no está vinculado a un personaje y solo puede usarse para el clan actual.{1}</Text>
 	<Text key="210902">Pergamino de tiempo de cría</Text>
@@ -5418,13 +5462,13 @@ Demasiado tarde.</Text>
 	<Text key="2111520">Otorga los efectos indicados a todos tus personajes. Haz clic derecho para activar. {2}{2}{0}- Espacios de Inventario +16 {2}- Espacios de Almacén +16 {2}- EXP de Nivel +15% {2}- EXP de Arma +15% {2}- EXP de Profesión +15% {2}- EXP de Montura +25% {2}- Límite de Peso +40 KG {2}- Cambio de Apariencia Ilimitado {2}- Uso Automático de Pociones.{1}</Text>
 
 	<Text key="211154">Artes Secretas de Ordenus (5 Días)</Text>
-	<Text key="2111540">Otorga los efectos indicados a todos tus personajes. Haz clic derecho para activar. {2}{2}{0}- EXP de Nivel +30% {2}- EXP de Arma +30% {2}- EXP de Profesión +10% {2}- EXP de Montura +25% {2}- EXP de Mascota +25% {2}- Reinicio de Habilidades Gratis {2}- Probabilidad de Drop +15%{1}</Text>
+	<Text key="2111540">Otorga los efectos indicados a todos tus personajes. Haz clic derecho para activar. {2}{2}{0}- EXP de Nivel +30% {2}- EXP de Arma +30% {2}- EXP de Profesión +10% {2}- EXP de Montura +25% {2}- EXP de Mascota +25% {2}- Reinicio de Habilidad Gratuito {2}- Probabilidad de Drop +15% {2}- Puntuación PVP +10%{1}</Text>
 
 	<Text key="211155">Artes Secretas de Ordenus (15 Días)</Text>
-	<Text key="2111550">Otorga los efectos indicados a todos tus personajes. Haz clic derecho para activar. {2}{2}{0}- EXP de Nivel +30% {2}- EXP de Arma +30% {2}- EXP de Profesión +10% {2}- EXP de Montura +25% {2}- EXP de Mascota +25% {2}- Reinicio de Habilidades Gratis {2}- Probabilidad de Drop +15%{1}</Text>
+	<Text key="2111550">Otorga los efectos indicados a todos tus personajes. Haz clic derecho para activar. {2}{2}{0}- EXP de Nivel +30% {2}- EXP de Arma +30% {2}- EXP de Profesión +10% {2}- EXP de Montura +25% {2}- EXP de Mascota +25% {2}- Reinicio de Habilidad Gratuito {2}- Probabilidad de Drop +15% {2}- Puntuación PVP +10%{1}</Text>
 
 	<Text key="211156">Artes Secretas de Ordenus (30 Días)</Text>
-	<Text key="2111560">Otorga los efectos indicados a todos tus personajes. Haz clic derecho para activar. {2}{2}{0}- EXP de Nivel +30% {2}- EXP de Arma +30% {2}- EXP de Profesión +10% {2}- EXP de Montura +25% {2}- EXP de Mascota +25% {2}- Reinicio de Habilidades Gratis {2}- Probabilidad de Drop +15%{1}</Text>
+	<Text key="2111560">Otorga los efectos indicados a todos tus personajes. Haz clic derecho para activar. {2}{2}{0}- EXP de Nivel +30% {2}- EXP de Arma +30% {2}- EXP de Profesión +10% {2}- EXP de Montura +25% {2}- EXP de Mascota +25% {2}- Reinicio de Habilidad Gratuito {2}- Probabilidad de Drop +15% {2}- Puntuación PVP +10%{1}</Text>
 
 	<Text key="211158">Bendición de Anostia (5 Días)</Text>
 	<Text key="2111580">Otorga los efectos indicados a todos tus personajes. Haz clic derecho para activar. {2}{2}{0}- Espacios de Almacén +20 {2}- EXP de Profesión +25% {2}- EXP de Altar Individual +40% {2}- EXP de Altar de Clan +40% {2}- Velocidad de Cosecha Agrícola +50% {2}- Velocidad de Recursos Animales +50% {2}- Doble de Recursos de Leñador, Recolección y Minería{1}</Text>
@@ -5455,9 +5499,9 @@ Demasiado tarde.</Text>
 	<Text key="211204">Medallón de calidad de caballo</Text>
 	<Text key="2112040">Se puede obtener de criaturas. Se utiliza para criar caballos.</Text>
 
-	
-	
-	
+
+
+
 
 	<Text key="211301">Espada destrozada</Text>
 	<Text key="2113010">Obtenido de criaturas. {2}{0}No se puede usar en ninguna producción. Puedes acumular este material y venderlo a un vendedor para ganar plata.{1}</Text>
@@ -5574,7 +5618,7 @@ Demasiado tarde.</Text>
 	<Text key="2115070">Puede obtenerse del banco del cocinero. Se puede usar en artesanía.</Text>
 	<Text key="211508">Azúcar</Text>
 	<Text key="2115080">Se puede obtener en la estación de cocina. Se puede usar en la elaboración.</Text>
-	
+
 	<Text key="211521">Mezcla tóxica</Text>
 	<Text key="2115210">Puede obtenerse del banco del alquimista. Se puede utilizar en artesanía.</Text>
 	<Text key="211522">Mezcla química</Text>
@@ -5667,8 +5711,8 @@ Demasiado tarde.</Text>
 
 
 
-	
-	
+
+
 	<Text key="211741">Cuerda de lazo</Text>
 	<Text key="2117410">Se puede comprar al cuidador del monte y al cuidador de animales. Se utiliza para capturar animales salvajes.</Text>
 
@@ -5741,7 +5785,7 @@ Demasiado tarde.</Text>
 	<Text key="211826">Munición de Mini Cañón [Alta Calidad]</Text>
 	<Text key="2118260">Munición utilizada en el Mini Cañón Automático.</Text>
 
-	
+
 
 	<Text key="211851">Quitina [Baja Calidad]</Text>
 	<Text key="2118510">Se puede obtener del caparazón de las tortugas gigantes oceánicas. Usable en producciones.</Text>
@@ -6280,7 +6324,7 @@ Demasiado tarde.</Text>
 	<Text key="2210150">Se puede producir en la mesa de cocina. Facilita el entrenamiento de animales un 20% durante 20 minutos.</Text>
 	<Text key="221016">Comida Cruda [Nivel 1]</Text>
 	<Text key="2210160">Se puede producir en la mesa de cocina. Aumenta la ganancia de experiencia de montura un 15% durante 30 minutos.</Text>
-	
+
 	<Text key="221101">Sopa Picante [Nivel 2]</Text>
 	<Text key="2211010">Se puede producir en la mesa de cocina. Aumenta el daño PVE un 10% durante 30 minutos.</Text>
 	<Text key="221102">Sopa de Planta Podrida [Nivel 2]</Text>
@@ -6315,7 +6359,7 @@ Demasiado tarde.</Text>
 	<Text key="2211160">Se puede producir en la mesa de cocina. Aumenta la ganancia de experiencia de montura un 25% durante 30 minutos.</Text>
 	<Text key="221117">Carne Salteada [Nivel 2]</Text>
 	<Text key="2211170">Se puede producir en la mesa de cocina. Aumenta la ganancia de experiencia del personaje un 10% durante 30 minutos.</Text>
-	
+
 	<Text key="221201">Sopa Picante [Nivel 3]</Text>
 	<Text key="2212010">Se puede producir en la mesa de cocina. Aumenta el daño PVE un 15% durante 30 minutos.</Text>
 	<Text key="221202">Sopa de Planta Podrida [Nivel 3]</Text>
@@ -6387,7 +6431,7 @@ Demasiado tarde.</Text>
 	<Text key="2220100">Se puede producir en la mesa de alquimia. Aumenta la velocidad de desuello en la caza un 20% durante 30 minutos.</Text>
 	<Text key="222011">Elixir del Pescador Perezoso [Nivel 1]</Text>
 	<Text key="2220110">Se puede producir en la mesa de alquimia. Aumenta la velocidad de pesca automática un 10% durante 1.5 horas.</Text>
-	
+
 	<Text key="222101">Líquido de Pesca Rápida [Nivel 2]</Text>
 	<Text key="2221010">Se puede producir en la mesa de alquimia. Aumenta la velocidad de pesca un 40% durante 30 minutos.</Text>
 	<Text key="222102">Elixir de Objetos [Nivel 2]</Text>
@@ -6456,88 +6500,112 @@ Demasiado tarde.</Text>
 
 
 	<Text key="223001">Talismán [Conjunto del Legado del Soberano]</Text>
-<Text key="2230010">Al usar este talismán al fabricar equipo, se añade una bonificación de conjunto según el color de rareza del objeto.
+	<Text key="2230010">
+		Al usar este talismán al fabricar equipo, se añade una bonificación de conjunto según el color de rareza del objeto.
 
-&lt;color=#18B1FF&gt;[Poco común]&lt;/color&gt; -> Conjunto Resolución del Guardián  
-&lt;color=#AF21FF&gt;[Raro]&lt;/color&gt; -> Conjunto Honor del Señor de la Guerra  
-&lt;color=#FF7220&gt;[Legendario]&lt;/color&gt; -> Conjunto del Legado del Soberano</Text>
+		&lt;color=#18B1FF&gt;[Poco común]&lt;/color&gt; -> Conjunto Resolución del Guardián
+		&lt;color=#AF21FF&gt;[Raro]&lt;/color&gt; -> Conjunto Honor del Señor de la Guerra
+		&lt;color=#FF7220&gt;[Legendario]&lt;/color&gt; -> Conjunto del Legado del Soberano
+	</Text>
 
-<Text key="223002">Talismán [Conjunto del Dominio del Devastador]</Text>
-<Text key="2230020">Al usar este talismán al fabricar equipo, se añade una bonificación de conjunto según el color de rareza del objeto.
+	<Text key="223002">Talismán [Conjunto del Dominio del Devastador]</Text>
+	<Text key="2230020">
+		Al usar este talismán al fabricar equipo, se añade una bonificación de conjunto según el color de rareza del objeto.
 
-&lt;color=#18B1FF&gt;[Poco común]&lt;/color&gt; -> Conjunto Rompeaceros  
-&lt;color=#AF21FF&gt;[Raro]&lt;/color&gt; -> Conjunto Furia Blindada  
-&lt;color=#FF7220&gt;[Legendario]&lt;/color&gt; -> Conjunto del Dominio del Devastador</Text>
+		&lt;color=#18B1FF&gt;[Poco común]&lt;/color&gt; -> Conjunto Rompeaceros
+		&lt;color=#AF21FF&gt;[Raro]&lt;/color&gt; -> Conjunto Furia Blindada
+		&lt;color=#FF7220&gt;[Legendario]&lt;/color&gt; -> Conjunto del Dominio del Devastador
+	</Text>
 
-<Text key="223003">Talismán [Conjunto Égida Divina]</Text>
-<Text key="2230030">Al usar este talismán al fabricar equipo, se añade una bonificación de conjunto según el color de rareza del objeto.
+	<Text key="223003">Talismán [Conjunto Égida Divina]</Text>
+	<Text key="2230030">
+		Al usar este talismán al fabricar equipo, se añade una bonificación de conjunto según el color de rareza del objeto.
 
-&lt;color=#18B1FF&gt;[Poco común]&lt;/color&gt; -> Conjunto Bastión Santificado  
-&lt;color=#AF21FF&gt;[Raro]&lt;/color&gt; -> Conjunto Guardián de la Luz  
-&lt;color=#FF7220&gt;[Legendario]&lt;/color&gt; -> Conjunto Égida Divina</Text>
+		&lt;color=#18B1FF&gt;[Poco común]&lt;/color&gt; -> Conjunto Bastión Santificado
+		&lt;color=#AF21FF&gt;[Raro]&lt;/color&gt; -> Conjunto Guardián de la Luz
+		&lt;color=#FF7220&gt;[Legendario]&lt;/color&gt; -> Conjunto Égida Divina
+	</Text>
 
-<Text key="223004">Talismán [Conjunto Vínculo de la Tempestad]</Text>
-<Text key="2230040">Al usar este talismán al fabricar equipo, se añade una bonificación de conjunto según el color de rareza del objeto.
+	<Text key="223004">Talismán [Conjunto Vínculo de la Tempestad]</Text>
+	<Text key="2230040">
+		Al usar este talismán al fabricar equipo, se añade una bonificación de conjunto según el color de rareza del objeto.
 
-&lt;color=#18B1FF&gt;[Poco común]&lt;/color&gt; -> Conjunto Guardia del Centinela  
-&lt;color=#AF21FF&gt;[Raro]&lt;/color&gt; -> Conjunto Brisa Susurrante  
-&lt;color=#FF7220&gt;[Legendario]&lt;/color&gt; -> Conjunto Vínculo de la Tempestad</Text>
+		&lt;color=#18B1FF&gt;[Poco común]&lt;/color&gt; -> Conjunto Guardia del Centinela
+		&lt;color=#AF21FF&gt;[Raro]&lt;/color&gt; -> Conjunto Brisa Susurrante
+		&lt;color=#FF7220&gt;[Legendario]&lt;/color&gt; -> Conjunto Vínculo de la Tempestad
+	</Text>
 
-<Text key="223005">Talismán [Conjunto Tejedor de Espadas]</Text>
-<Text key="2230050">Al usar este talismán al fabricar equipo, se añade una bonificación de conjunto según el color de rareza del objeto.
+	<Text key="223005">Talismán [Conjunto Tejedor de Espadas]</Text>
+	<Text key="2230050">
+		Al usar este talismán al fabricar equipo, se añade una bonificación de conjunto según el color de rareza del objeto.
 
-&lt;color=#18B1FF&gt;[Poco común]&lt;/color&gt; -> Conjunto Golpe Sombrío  
-&lt;color=#AF21FF&gt;[Raro]&lt;/color&gt; -> Conjunto Viento de Cuchillas  
-&lt;color=#FF7220&gt;[Legendario]&lt;/color&gt; -> Conjunto Tejedor de Espadas</Text>
+		&lt;color=#18B1FF&gt;[Poco común]&lt;/color&gt; -> Conjunto Golpe Sombrío
+		&lt;color=#AF21FF&gt;[Raro]&lt;/color&gt; -> Conjunto Viento de Cuchillas
+		&lt;color=#FF7220&gt;[Legendario]&lt;/color&gt; -> Conjunto Tejedor de Espadas
+	</Text>
 
-<Text key="223006">Talismán [Conjunto Fuego de Hechizos]</Text>
-<Text key="2230060">Al usar este talismán al fabricar equipo, se añade una bonificación de conjunto según el color de rareza del objeto.
+	<Text key="223006">Talismán [Conjunto Fuego de Hechizos]</Text>
+	<Text key="2230060">
+		Al usar este talismán al fabricar equipo, se añade una bonificación de conjunto según el color de rareza del objeto.
 
-&lt;color=#18B1FF&gt;[Poco común]&lt;/color&gt; -> Conjunto Espíritu Arcano  
-&lt;color=#AF21FF&gt;[Raro]&lt;/color&gt; -> Conjunto Tormenta de Éter  
-&lt;color=#FF7220&gt;[Legendario]&lt;/color&gt; -> Conjunto Fuego de Hechizos</Text>
+		&lt;color=#18B1FF&gt;[Poco común]&lt;/color&gt; -> Conjunto Espíritu Arcano
+		&lt;color=#AF21FF&gt;[Raro]&lt;/color&gt; -> Conjunto Tormenta de Éter
+		&lt;color=#FF7220&gt;[Legendario]&lt;/color&gt; -> Conjunto Fuego de Hechizos
+	</Text>
 
-<Text key="223007">Talismán [Conjunto Conflujo Astral]</Text>
-<Text key="2230070">Al usar este talismán al fabricar equipo, se añade una bonificación de conjunto según el color de rareza del objeto.
+	<Text key="223007">Talismán [Conjunto Conflujo Astral]</Text>
+	<Text key="2230070">
+		Al usar este talismán al fabricar equipo, se añade una bonificación de conjunto según el color de rareza del objeto.
 
-&lt;color=#18B1FF&gt;[Poco común]&lt;/color&gt; -> Conjunto Ascua Mística  
-&lt;color=#AF21FF&gt;[Raro]&lt;/color&gt; -> Conjunto Llama Celestial  
-&lt;color=#FF7220&gt;[Legendario]&lt;/color&gt; -> Conflujo Astral</Text>
+		&lt;color=#18B1FF&gt;[Poco común]&lt;/color&gt; -> Conjunto Ascua Mística
+		&lt;color=#AF21FF&gt;[Raro]&lt;/color&gt; -> Conjunto Llama Celestial
+		&lt;color=#FF7220&gt;[Legendario]&lt;/color&gt; -> Conflujo Astral
+	</Text>
 
-<Text key="223008">Talismán [Conjunto Gracia Seráfica]</Text>
-<Text key="2230080">Al usar este talismán al fabricar equipo, se añade una bonificación de conjunto según el color de rareza del objeto.
+	<Text key="223008">Talismán [Conjunto Gracia Seráfica]</Text>
+	<Text key="2230080">
+		Al usar este talismán al fabricar equipo, se añade una bonificación de conjunto según el color de rareza del objeto.
 
-&lt;color=#18B1FF&gt;[Poco común]&lt;/color&gt; -> Conjunto Portador del Alba  
-&lt;color=#AF21FF&gt;[Raro]&lt;/color&gt; -> Conjunto Vínculo Vital  
-&lt;color=#FF7220&gt;[Legendario]&lt;/color&gt; -> Conjunto Gracia Seráfica</Text>
+		&lt;color=#18B1FF&gt;[Poco común]&lt;/color&gt; -> Conjunto Portador del Alba
+		&lt;color=#AF21FF&gt;[Raro]&lt;/color&gt; -> Conjunto Vínculo Vital
+		&lt;color=#FF7220&gt;[Legendario]&lt;/color&gt; -> Conjunto Gracia Seráfica
+	</Text>
 
-<Text key="223009">Talismán [Conjunto Fortaleza del Valor]</Text>
-<Text key="2230090">Al usar este talismán al fabricar equipo, se añade una bonificación de conjunto según el color de rareza del objeto.
+	<Text key="223009">Talismán [Conjunto Fortaleza del Valor]</Text>
+	<Text key="2230090">
+		Al usar este talismán al fabricar equipo, se añade una bonificación de conjunto según el color de rareza del objeto.
 
-&lt;color=#18B1FF&gt;[Poco común]&lt;/color&gt; -> Conjunto Defensor del Muro de Hierro  
-&lt;color=#AF21FF&gt;[Raro]&lt;/color&gt; -> Conjunto Guardián de Piedra  
-&lt;color=#FF7220&gt;[Legendario]&lt;/color&gt; -> Conjunto Fortaleza del Valor</Text>
+		&lt;color=#18B1FF&gt;[Poco común]&lt;/color&gt; -> Conjunto Defensor del Muro de Hierro
+		&lt;color=#AF21FF&gt;[Raro]&lt;/color&gt; -> Conjunto Guardián de Piedra
+		&lt;color=#FF7220&gt;[Legendario]&lt;/color&gt; -> Conjunto Fortaleza del Valor
+	</Text>
 
-<Text key="223010">Talismán [Conjunto Garra de Dragón]</Text>
-<Text key="2230100">Al usar este talismán al fabricar equipo, se añade una bonificación de conjunto según el color de rareza del objeto.
+	<Text key="223010">Talismán [Conjunto Garra de Dragón]</Text>
+	<Text key="2230100">
+		Al usar este talismán al fabricar equipo, se añade una bonificación de conjunto según el color de rareza del objeto.
 
-&lt;color=#18B1FF&gt;[Poco común]&lt;/color&gt; -> Conjunto Golpe Rápido  
-&lt;color=#AF21FF&gt;[Raro]&lt;/color&gt; -> Conjunto Golpe Salvaje  
-&lt;color=#FF7220&gt;[Legendario]&lt;/color&gt; -> Conjunto Garra de Dragón</Text>
+		&lt;color=#18B1FF&gt;[Poco común]&lt;/color&gt; -> Conjunto Golpe Rápido
+		&lt;color=#AF21FF&gt;[Raro]&lt;/color&gt; -> Conjunto Golpe Salvaje
+		&lt;color=#FF7220&gt;[Legendario]&lt;/color&gt; -> Conjunto Garra de Dragón
+	</Text>
 
-<Text key="223011">Talismán [Conjunto Catalizador Eldritch]</Text>
-<Text key="2230110">Al usar este talismán al fabricar equipo, se añade una bonificación de conjunto según el color de rareza del objeto.
+	<Text key="223011">Talismán [Conjunto Catalizador Eldritch]</Text>
+	<Text key="2230110">
+		Al usar este talismán al fabricar equipo, se añade una bonificación de conjunto según el color de rareza del objeto.
 
-&lt;color=#18B1FF&gt;[Poco común]&lt;/color&gt; -> Conjunto Enfoque Arcano  
-&lt;color=#AF21FF&gt;[Raro]&lt;/color&gt; -> Conjunto Conducto Místico  
-&lt;color=#FF7220&gt;[Legendario]&lt;/color&gt; -> Conjunto Catalizador Eldritch</Text>
+		&lt;color=#18B1FF&gt;[Poco común]&lt;/color&gt; -> Conjunto Enfoque Arcano
+		&lt;color=#AF21FF&gt;[Raro]&lt;/color&gt; -> Conjunto Conducto Místico
+		&lt;color=#FF7220&gt;[Legendario]&lt;/color&gt; -> Conjunto Catalizador Eldritch
+	</Text>
 
-<Text key="223012">Talismán [Conjunto Armonía Divina]</Text>
-<Text key="2230120">Al usar este talismán al fabricar equipo, se añade una bonificación de conjunto según el color de rareza del objeto.
+	<Text key="223012">Talismán [Conjunto Armonía Divina]</Text>
+	<Text key="2230120">
+		Al usar este talismán al fabricar equipo, se añade una bonificación de conjunto según el color de rareza del objeto.
 
-&lt;color=#18B1FF&gt;[Poco común]&lt;/color&gt; -> Conjunto Guardián de Vida  
-&lt;color=#AF21FF&gt;[Raro]&lt;/color&gt; -> Conjunto Bendición Serena  
-&lt;color=#FF7220&gt;[Legendario]&lt;/color&gt; -> Conjunto Armonía Divina</Text>
+		&lt;color=#18B1FF&gt;[Poco común]&lt;/color&gt; -> Conjunto Guardián de Vida
+		&lt;color=#AF21FF&gt;[Raro]&lt;/color&gt; -> Conjunto Bendición Serena
+		&lt;color=#FF7220&gt;[Legendario]&lt;/color&gt; -> Conjunto Armonía Divina
+	</Text>
 
 
 
@@ -6600,16 +6668,16 @@ Demasiado tarde.</Text>
 	<Text key="2350020">Una flecha rápida y menos dañina creada para el arco.</Text>
 	<Text key="235003">Flecha explosiva (arco)</Text>
 	<Text key="2350030">Una flecha con pólvora de movimiento lento. Sólo se puede usar con el arco y es muy fuerte contra las estructuras.</Text>
-	
+
 	<Text key="235501">Flecha de madera (Ballesta)</Text>
 	<Text key="2355010">Flecha estándar fabricada para ballesta.</Text>
 	<Text key="235502">Flecha de aceleración (Ballesta)</Text>
 	<Text key="2355020">Una flecha rápida y menos dañina creada para la ballesta.</Text>
 	<Text key="235503">Flecha explosiva (ballesta)</Text>
 	<Text key="2355030">Una flecha con pólvora de movimiento lento. Sólo se puede usar con ballesta y es muy fuerte contra estructuras.</Text>
-	
-	
-	
+
+
+
 	<Text key="236001">Prueba 1 Piedra Rúnica</Text>
 	<Text key="2360010">Prueba 1 Piedra Rúnica, Esta sección está reservada para aclaraciones. Cualquier Text de descripción específico del objeto estará aquí. Esta sección está reservada para la descripción. Cualquier Text de descripción específico del objeto estará aquí.</Text>
 
@@ -6657,7 +6725,7 @@ Demasiado tarde.</Text>
 	<Text key="2365200">Puede usarse para acceder a salas del tesoro.</Text>
 
 
-	
+
 	<Text key="236601">Pergamino Estelar [Baja Calidad]</Text>
 	<Text key="2366010">Aumenta en un 5% la probabilidad de éxito al mejorar una armadura.</Text>
 	<Text key="236602">Pergamino Estelar [Calidad Media]</Text>
@@ -6707,7 +6775,7 @@ Demasiado tarde.</Text>
 
 
 
-	
+
 	<Text key="242101">Libro de Nivel Bajo - Espada y Escudo</Text>
 	<Text key="242102">Libro de Nivel Bajo - Espada Larga</Text>
 	<Text key="242103">Libro de Nivel Bajo - Lanza</Text>
@@ -6742,12 +6810,12 @@ Demasiado tarde.</Text>
 	<Text key="2420010">Se usa para aumentar el punto de habilidad.</Text>
 	<Text key="2420011">?</Text>
 
-	
-	
-	
-	
-	
-	
+
+
+
+
+
+
 
 	<Text key="300001">Tarjeta de Prueba 1</Text>
 	<Text key="3000010">Tarjeta de Prueba 1, Esta sección está reservada para aclaraciones. Cualquier Text de descripción específico del objeto estará aquí. Esta sección está reservada para la descripción. Cualquier Text de descripción específico del artículo estará aquí.</Text>
@@ -6757,17 +6825,17 @@ Demasiado tarde.</Text>
 
 
 
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -7203,7 +7271,7 @@ Demasiado tarde.</Text>
 	<Text key="4111120">Saltas tres veces y golpeas el suelo, creando púas de piedra que se extienden hacia adelante e infligen 100% de Daño Físico. {0}{1}Cada punto adicional aumenta el daño físico en 8%.{2}</Text>
 
 
-	
+
 	<Text key="411301">Flecha Perforante</Text>
 	<Text key="411302">Descarga Doble</Text>
 	<Text key="411303">Disparo Celestial</Text>
@@ -8005,7 +8073,7 @@ Demasiado tarde.</Text>
 	<Text key="450011">Medio suelo de piedra blanca</Text>
 	<Text key="450012">Medio suelo de piedra sucia</Text>
 	<Text key="450013">Suelo de piedra agrietado</Text>
-	
+
 	<Text key="450051">Fundamento de pizarra</Text>
 	<Text key="450052">Fundamento de Abedul</Text>
 	<Text key="450053">Fundamento de piedra</Text>
@@ -8117,7 +8185,7 @@ Demasiado tarde.</Text>
 	<Text key="450508">Poste Grueso de Piedra</Text>
 	<Text key="450509">Poste Angular Motivado</Text>
 	<Text key="450510">Mástil Motivado</Text>
-	
+
 	<Text key="450601">Mástil Corto de Tabla Horizontal</Text>
 	<Text key="450602">Pértiga Central de Tabla Horizontal</Text>
 	<Text key="450603">Poste Largo Horizontal de Madera</Text>
@@ -8135,7 +8203,7 @@ Demasiado tarde.</Text>
 	<Text key="450709">Poste de Barricada de Piedra Metalizada</Text>
 	<Text key="450710">Barricada de piedra</Text>
 	<Text key="450711">Poste de Barricada de Piedra</Text>
-	
+
 	<Text key="450801">Valla de Abedul</Text>
 	<Text key="450802">Valla de madera de abedul</Text>
 	<Text key="450803">Cerco de Ciprés</Text>
@@ -8151,7 +8219,7 @@ Demasiado tarde.</Text>
 	<Text key="450813">Torre de piedra cerrada lista</Text>
 	<Text key="450814">Torre de piedra con cúpula lista</Text>
 	<Text key="450815">Torre de piedra con cúpula lista</Text>
-	
+
 	<Text key="450991">Altar individual</Text>
 	<Text key="450992">Altar del clan</Text>
 
@@ -8705,7 +8773,7 @@ Demasiado tarde.</Text>
 	<Text key="452111">Semilla de arroz</Text>
 	<Text key="4521110">Puede plantarse en un campo o terreno para cultivar arroz. Recomendado en zonas con abundante agua.</Text>
 
-	
+
 
 
 	<Text key="453011">Oveja</Text>
@@ -9496,60 +9564,78 @@ Demasiado tarde.</Text>
 
 	<Text key="4740015">XXX</Text>
 	<Text key="4740025">Presiona ahora la tecla I para abrir tu inventario y haz clic con el botón derecho en el anzuelo que se te ha proporcionado. El aura amarilla que gira alrededor del anzuelo indica que está activo.</Text>
-	<Text key="4740035">Para pescar, dirígete al mar o a la orilla de un charco de agua. Diferentes especies de peces se encuentran en charcos de agua salada y dulce.
+	<Text key="4740035">
+		Para pescar, dirígete al mar o a la orilla de un charco de agua. Diferentes especies de peces se encuentran en charcos de agua salada y dulce.
 
-Cuando estás en la orilla del mar, puedes presionar la tecla E para pescar o la tecla F para realizar PESCA AUTOMÁTICA. La pesca normal es más rentable que la pesca automática.
+		Cuando estás en la orilla del mar, puedes presionar la tecla E para pescar o la tecla F para realizar PESCA AUTOMÁTICA. La pesca normal es más rentable que la pesca automática.
 
-Los peces que pesques aquí pueden usarse en la producción.
+		Los peces que pesques aquí pueden usarse en la producción.
 
-¡Debes ganar el mini-juego mientras pescas!</Text>
+		¡Debes ganar el mini-juego mientras pescas!
+	</Text>
 	<Text key="4740045">XXX</Text>
 	<Text key="4740055">XXX</Text>
-	<Text key="4740065">En el universo de Quinfall, las mascotas se dividen en dos categorías: mascotas potenciadoras y recolectoras. Las mascotas pueden tener diferentes apariencias y pueden crecer a través del aumento de nivel y la evolución.
+	<Text key="4740065">
+		En el universo de Quinfall, las mascotas se dividen en dos categorías: mascotas potenciadoras y recolectoras. Las mascotas pueden tener diferentes apariencias y pueden crecer a través del aumento de nivel y la evolución.
 
-Puedes presionar la tecla I para abrir tu inventario y hacer clic con el botón derecho en la mascota que está en tu inventario para activarla. Luego, puedes presionar la tecla H para convocar a tu mascota.</Text>
-	<Text key="4740075">Para alimentar a tu mascota, presiona la tecla I para abrir tu inventario y haz clic con el botón derecho en la comida para mascotas que está en tu inventario. Recuerda que una mascota hambrienta no puede recolectar objetos y los poderes que le otorgues no estarán activos.
+		Puedes presionar la tecla I para abrir tu inventario y hacer clic con el botón derecho en la mascota que está en tu inventario para activarla. Luego, puedes presionar la tecla H para convocar a tu mascota.
+	</Text>
+	<Text key="4740075">
+		Para alimentar a tu mascota, presiona la tecla I para abrir tu inventario y haz clic con el botón derecho en la comida para mascotas que está en tu inventario. Recuerda que una mascota hambrienta no puede recolectar objetos y los poderes que le otorgues no estarán activos.
 
-Al presionar la tecla H, puedes ajustar la configuración de recolección de objetos en la página que se abre.</Text>
-	<Text key="4740085">Para reparar objetos, puedes visitar al herrero. Cuando estés con el herrero, presiona la tecla I para abrir tu inventario. Puedes ver los objetos rotos en tu inventario. Los objetos rotos se debilitan. Para reparar los objetos seleccionados, haz clic con el botón derecho en ellos y envíalos al herrero, luego presiona el botón de reparación.
+		Al presionar la tecla H, puedes ajustar la configuración de recolección de objetos en la página que se abre.
+	</Text>
+	<Text key="4740085">
+		Para reparar objetos, puedes visitar al herrero. Cuando estés con el herrero, presiona la tecla I para abrir tu inventario. Puedes ver los objetos rotos en tu inventario. Los objetos rotos se debilitan. Para reparar los objetos seleccionados, haz clic con el botón derecho en ellos y envíalos al herrero, luego presiona el botón de reparación.
 
-Además, con materiales de reparación, puedes realizar la misma acción en cualquier lugar sin necesidad de ir al herrero.</Text>
+		Además, con materiales de reparación, puedes realizar la misma acción en cualquier lugar sin necesidad de ir al herrero.
+	</Text>
 	<Text key="4740095">XXX</Text>
-	<Text key="4740105">Arrastra las cuchillas que compraste a tu barra de habilidades.
+	<Text key="4740105">
+		Arrastra las cuchillas que compraste a tu barra de habilidades.
 
-En este mundo puedes capturar vacas, cabras, ovejas, caballos e incluso gallinas.
+		En este mundo puedes capturar vacas, cabras, ovejas, caballos e incluso gallinas.
 
-Coloca el cursor sobre el animal que quieras capturar y activa la cuchilla desde tu barra de habilidades.
-Si superas el minijuego que aparece, el animal quedará domesticado.</Text>
+		Coloca el cursor sobre el animal que quieras capturar y activa la cuchilla desde tu barra de habilidades.
+		Si superas el minijuego que aparece, el animal quedará domesticado.
+	</Text>
 	<Text key="4740115">Para convocar tu montura, presiona la tecla I para abrir tu inventario, haz clic con el botón derecho en la montura en tu inventario y úsala. Puedes acceder a tu montura con la tecla J. Con la tecla P, puedes montar rápidamente tu montura.</Text>
-	<Text key="4740125">Puedes abrir el menú de montura presionando la tecla J. En este menú, se muestran la estabilidad de la montura y la tasa de experiencia. Para equipar equipos en tu montura, haz clic en el botón de equipos en el menú de montura y equipa los equipos de montura desde tu inventario.
+	<Text key="4740125">
+		Puedes abrir el menú de montura presionando la tecla J. En este menú, se muestran la estabilidad de la montura y la tasa de experiencia. Para equipar equipos en tu montura, haz clic en el botón de equipos en el menú de montura y equipa los equipos de montura desde tu inventario.
 
-Los equipos equipados mejoran varias características de tu montura.</Text>
-	<Text key="4740135">En el universo de Quinfall, existen varias maneras de viajar rápidamente. Una de ellas es el viaje automático.
+		Los equipos equipados mejoran varias características de tu montura.
+	</Text>
+	<Text key="4740135">
+		En el universo de Quinfall, existen varias maneras de viajar rápidamente. Una de ellas es el viaje automático.
 
-Para iniciar un viaje automático, presiona la tecla M y marca el punto amarillo en el sendero más cercano al lugar donde deseas ir. Puedes hacer clic en el botón Auto-Run para comenzar el viaje automático.
+		Para iniciar un viaje automático, presiona la tecla M y marca el punto amarillo en el sendero más cercano al lugar donde deseas ir. Puedes hacer clic en el botón Auto-Run para comenzar el viaje automático.
 
-Recuerda que el viaje automático solo funciona en senderos.</Text>
+		Recuerda que el viaje automático solo funciona en senderos.
+	</Text>
 	<Text key="4740145">XXX</Text>
 	<Text key="4740155">XXX</Text>
-	<Text key="4740165">Antes de usar tus habilidades, debes aprender a bloquear, realizar golpes pesados y golpes normales.
+	<Text key="4740165">
+		Antes de usar tus habilidades, debes aprender a bloquear, realizar golpes pesados y golpes normales.
 
-Los golpes pesados y normales pueden darte diferentes buffs por un período de tiempo determinado. Activar estos buffs será ventajoso durante el combate.
+		Los golpes pesados y normales pueden darte diferentes buffs por un período de tiempo determinado. Activar estos buffs será ventajoso durante el combate.
 
-Puedes realizar golpes normales con el botón izquierdo del mouse. Este golpe aumenta tu poder de ataque por 10 segundos.
+		Puedes realizar golpes normales con el botón izquierdo del mouse. Este golpe aumenta tu poder de ataque por 10 segundos.
 
-Los golpes pesados se realizan manteniendo presionado el botón derecho del mouse. Este golpe te da una mayor probabilidad de crítico y velocidad por 10 segundos.
+		Los golpes pesados se realizan manteniendo presionado el botón derecho del mouse. Este golpe te da una mayor probabilidad de crítico y velocidad por 10 segundos.
 
-Bloquear se realiza con el botón central del mouse. Puedes bloquear parcialmente los golpes y evitar el daño.</Text>
-	<Text key="4740175">Es muy importante mejorar tus habilidades durante el combate.
+		Bloquear se realiza con el botón central del mouse. Puedes bloquear parcialmente los golpes y evitar el daño.
+	</Text>
+	<Text key="4740175">
+		Es muy importante mejorar tus habilidades durante el combate.
 
-Para activar una habilidad, haz clic en la tecla K y selecciona la habilidad que deseas abrir.
+		Para activar una habilidad, haz clic en la tecla K y selecciona la habilidad que deseas abrir.
 
-Si te encuentras en una zona segura, puedes cambiar tu arma inmediatamente. Sin embargo, al salir de la zona segura, cambiar de arma bloquea todas las habilidades por 100 segundos.
+		Si te encuentras en una zona segura, puedes cambiar tu arma inmediatamente. Sin embargo, al salir de la zona segura, cambiar de arma bloquea todas las habilidades por 100 segundos.
 
-Puedes revisar todas las habilidades presionando la tecla K. Después del nivel 1, todas las habilidades activas pueden requerir libros de habilidades con números y características diferentes.
+		Puedes revisar todas las habilidades presionando la tecla K. Después del nivel 1, todas las habilidades activas pueden requerir libros de habilidades con números y características diferentes.
 
-Para ganar puntos de habilidad, debes luchar contra criaturas y matarlas. De esta manera, puedes acumular experiencia de habilidad.</Text>
+		Para ganar puntos de habilidad, debes luchar contra criaturas y matarlas. De esta manera, puedes acumular experiencia de habilidad.
+	</Text>
 	<Text key="4740185">Diferentes tipos de armaduras otorgan diferentes características. Para verificar esto, presiona la tecla I y verás una escala de peso en el lado izquierdo de la sección de equipos equipados. Al pasar el mouse sobre la escala de peso, puedes ver qué bonificaciones obtienen las armaduras según su peso.</Text>
 	<Text key="4740195">XXX</Text>
 	<Text key="4740205">XXX</Text>
@@ -9557,23 +9643,31 @@ Para ganar puntos de habilidad, debes luchar contra criaturas y matarlas. De est
 	<Text key="4740225">Los monstruos campeones son más grandes y fuertes que los demás. Sin embargo, las recompensas que ofrecen también son mejores. Estos monstruos tienen ciertos niveles de estrellas. 3 estrellas representan al campeón más fuerte.</Text>
 	<Text key="4740235">Presiona la tecla M para abrir el mapa. Verás que algunas partes del mapa están oscuras. Para iluminar una región, debes haberla visitado. Para poder usar ciudades o puntos de viaje en regiones iluminadas, debes poseer una piedra de teletransporte. Si la región no está iluminada, puedes usar la función de correr automática.</Text>
 	<Text key="4740245">XXX</Text>
-	<Text key="4740255">Para vender un objeto en el mercado central, haz clic en la sección de Orden de Venta.
+	<Text key="4740255">
+		Para vender un objeto en el mercado central, haz clic en la sección de Orden de Venta.
 
-Lleva el producto que deseas vender desde tu inventario y haz clic con el botón derecho para registrarlo en el mercado. Ingresa un precio y confirma.</Text>
-	<Text key="4740265">Puedes aceptar y completar misiones en el tablero de misiones mientras avanzas en tus misiones principales.
+		Lleva el producto que deseas vender desde tu inventario y haz clic con el botón derecho para registrarlo en el mercado. Ingresa un precio y confirma.
+	</Text>
+	<Text key="4740265">
+		Puedes aceptar y completar misiones en el tablero de misiones mientras avanzas en tus misiones principales.
 
-Cuantas más misiones completes en el tablero de misiones, más niveles alcanzará el tablero.
+		Cuantas más misiones completes en el tablero de misiones, más niveles alcanzará el tablero.
 
-Un tablero de misiones avanzado puede darte mejores recompensas.</Text>
-	<Text key="4740275">Los almacenes son ideales para almacenar objetos.
+		Un tablero de misiones avanzado puede darte mejores recompensas.
+	</Text>
+	<Text key="4740275">
+		Los almacenes son ideales para almacenar objetos.
 
-Sin embargo, cada ciudad tiene su propio almacén. Por lo tanto, solo puedes recuperar tus objetos en la ciudad donde los dejaste.</Text>
+		Sin embargo, cada ciudad tiene su propio almacén. Por lo tanto, solo puedes recuperar tus objetos en la ciudad donde los dejaste.
+	</Text>
 	<Text key="4740285">XXX</Text>
 	<Text key="4740295">XXX</Text>
 	<Text key="4740305">XXX</Text>
-	<Text key="4740315">Puedes abrir la pantalla de habilidades presionando la tecla K. Puedes agregar una piedra de habilidad a cada una de las habilidades activas aquí. Presiona la tecla I para abrir tu inventario y agrega la piedra de habilidad en el slot al lado de la habilidad que deseas potenciar.
+	<Text key="4740315">
+		Puedes abrir la pantalla de habilidades presionando la tecla K. Puedes agregar una piedra de habilidad a cada una de las habilidades activas aquí. Presiona la tecla I para abrir tu inventario y agrega la piedra de habilidad en el slot al lado de la habilidad que deseas potenciar.
 
-Además, cada piedra de habilidad tiene una versión más fuerte. Puedes obtenerlas derrotando enemigos.</Text>
+		Además, cada piedra de habilidad tiene una versión más fuerte. Puedes obtenerlas derrotando enemigos.
+	</Text>
 	<Text key="4740325">XXX</Text>
 	<Text key="4740335">XXX</Text>
 	<Text key="4740345">Para hablar con los habitantes del pueblo, acércate a cualquier residente y presiona la tecla E.</Text>
@@ -9581,74 +9675,100 @@ Además, cada piedra de habilidad tiene una versión más fuerte. Puedes obtener
 	<Text key="4740365">Puedes colocar la estación de trabajo del herrero en tu hogar y usarla para fabricar armaduras.</Text>
 	<Text key="4740375">El alquimista te proporcionará una estación de trabajo que puedes agregar a tu hogar para preparar pociones encantadoras que protegen tu inmunidad contra el universo. Además, los objetos disponibles en el área del alquimista te ayudan a producir pociones.</Text>
 	<Text key="4740385">El armero puede proporcionarte una estación de trabajo, y si agregas esta estación a tu hogar, podrás crear algunas armas especiales. Además, puedes obtener munición básica para arcos y ballestas aquí.</Text>
-	<Text key="4740395">Recorre la ciudad para comprar una casa. ¡Las casas a la venta están marcadas en sus puertas!
+	<Text key="4740395">
+		Recorre la ciudad para comprar una casa. ¡Las casas a la venta están marcadas en sus puertas!
 
-Cuando te acerques a una puerta marcada, presiona E. Puedes comprar la casa pagando una tarifa. Las casas son ideales para colocar puestos y fabricar.
+		Cuando te acerques a una puerta marcada, presiona E. Puedes comprar la casa pagando una tarifa. Las casas son ideales para colocar puestos y fabricar.
 
-Haz clic derecho en los puestos de tu inventario y colócalos en lugares adecuados de tu casa.
+		Haz clic derecho en los puestos de tu inventario y colócalos en lugares adecuados de tu casa.
 
-¡Cada puesto que coloques representa una clase de profesión diferente!
+		¡Cada puesto que coloques representa una clase de profesión diferente!
 
-No olvides inspeccionar los puestos: en la lista puedes ver los objetos necesarios para fabricar.</Text>
+		No olvides inspeccionar los puestos: en la lista puedes ver los objetos necesarios para fabricar.
+	</Text>
 	<Text key="4740405">XXX</Text>
 	<Text key="4740415">XXX</Text>
-	<Text key="4740425">Para activar la Carta de Poder, presiona la tecla I para abrir tu inventario. Puedes usarla haciendo clic con el botón derecho en la carta.
+	<Text key="4740425">
+		Para activar la Carta de Poder, presiona la tecla I para abrir tu inventario. Puedes usarla haciendo clic con el botón derecho en la carta.
 
-Las Cartas de Poder otorgan a tu personaje varias características. Algunas Cartas de Poder pueden proporcionar más poder que otras.</Text>
-	<Text key="4740435">Puedes comprar las semillas que deseas al agricultor y plantarlas en tu campo.
+		Las Cartas de Poder otorgan a tu personaje varias características. Algunas Cartas de Poder pueden proporcionar más poder que otras.
+	</Text>
+	<Text key="4740435">
+		Puedes comprar las semillas que deseas al agricultor y plantarlas en tu campo.
 
-Si no quieres gastar dinero en semillas, la mejor manera de obtenerlas es recolectando plantas. De las plantas recolectadas pueden caer semillas.</Text>
-	<Text key="4740445">Para comprar la parcela seleccionada, presiona E y haz clic en el botón Comprar. Para plantar en la parcela, abre tu inventario presionando I. Haz clic derecho en las semillas en tu inventario y plántalas en tu campo.
+		Si no quieres gastar dinero en semillas, la mejor manera de obtenerlas es recolectando plantas. De las plantas recolectadas pueden caer semillas.
+	</Text>
+	<Text key="4740445">
+		Para comprar la parcela seleccionada, presiona E y haz clic en el botón Comprar. Para plantar en la parcela, abre tu inventario presionando I. Haz clic derecho en las semillas en tu inventario y plántalas en tu campo.
 
-Cada semilla tiene tiempos de crecimiento y maduración, y las plantas sin agua pueden pudrirse. Para ver estos detalles, coloca el cursor sobre el cultivo plantado y haz clic izquierdo.</Text>
+		Cada semilla tiene tiempos de crecimiento y maduración, y las plantas sin agua pueden pudrirse. Para ver estos detalles, coloca el cursor sobre el cultivo plantado y haz clic izquierdo.
+	</Text>
 	<Text key="4740455">Puedes navegar por los objetos vendidos por el comerciante. Estos son materiales de alta calidad para embellecer y decorar tu hogar.</Text>
-	<Text key="4740465">Para cortar árboles, presiona la tecla I para abrir tu inventario. Haz clic con el botón derecho en el hacha en tu inventario. El aura amarilla girando alrededor del hacha indica que está activa. Ahora puedes cortar árboles.
+	<Text key="4740465">
+		Para cortar árboles, presiona la tecla I para abrir tu inventario. Haz clic con el botón derecho en el hacha en tu inventario. El aura amarilla girando alrededor del hacha indica que está activa. Ahora puedes cortar árboles.
 
-La profesión de leñador juega un papel importante en este universo. ¡Sin la silvicultura, no hay barcos, edificios o producción!
+		La profesión de leñador juega un papel importante en este universo. ¡Sin la silvicultura, no hay barcos, edificios o producción!
 
-Presiona la tecla L para ver los niveles profesionales y los detalles.</Text>
-	<Text key="4740475">Para recolectar plantas, haz clic con el botón derecho en el objeto llamado Hoz en tu inventario y actívalo.
+		Presiona la tecla L para ver los niveles profesionales y los detalles.
+	</Text>
+	<Text key="4740475">
+		Para recolectar plantas, haz clic con el botón derecho en el objeto llamado Hoz en tu inventario y actívalo.
 
-Al recolectar plantas, puedes obtener muchos objetos diferentes. Puedes ver tu progreso presionando la tecla L.</Text>
-	<Text key="4740485">Para recolectar piedras o minerales, abre tu inventario y activa la Pica.
+		Al recolectar plantas, puedes obtener muchos objetos diferentes. Puedes ver tu progreso presionando la tecla L.
+	</Text>
+	<Text key="4740485">
+		Para recolectar piedras o minerales, abre tu inventario y activa la Pica.
 
-Al recolectar piedras y minerales, puedes obtener muchos objetos de producción.</Text>
-	<Text key="4740495">Para cazar animales, primero debes matarlos. Después de matar a los animales, necesitarás un cuchillo de cazador para desollar sus pieles. Puedes encontrar el cuchillo de cazador en tu inventario. Abre tu inventario para activarlo.
+		Al recolectar piedras y minerales, puedes obtener muchos objetos de producción.
+	</Text>
+	<Text key="4740495">
+		Para cazar animales, primero debes matarlos. Después de matar a los animales, necesitarás un cuchillo de cazador para desollar sus pieles. Puedes encontrar el cuchillo de cazador en tu inventario. Abre tu inventario para activarlo.
 
-Puedes ver animales de caza presionando la tecla M y ampliando el mapa. Sin embargo, para ver algunos animales de caza, necesitas desarrollar la profesión de cazador.
+		Puedes ver animales de caza presionando la tecla M y ampliando el mapa. Sin embargo, para ver algunos animales de caza, necesitas desarrollar la profesión de cazador.
 
-¡Las tortugas y otros animales pequeños se encuentran un poco fuera de la ciudad!</Text>
+		¡Las tortugas y otros animales pequeños se encuentran un poco fuera de la ciudad!
+	</Text>
 	<Text key="4740505">XXX</Text>
 	<Text key="4740515">XXX</Text>
 	<Text key="4740525">XXX</Text>
-	<Text key="4740535">El comercio de caravanas es una profesión importante. Puedes alquilar camellos, elefantes y bueyes para hacer entregas en diferentes lugares y ganar dinero.
+	<Text key="4740535">
+		El comercio de caravanas es una profesión importante. Puedes alquilar camellos, elefantes y bueyes para hacer entregas en diferentes lugares y ganar dinero.
 
-O puedes alquilar un burro para matar a los conductores de caravanas y robar sus tesoros.
+		O puedes alquilar un burro para matar a los conductores de caravanas y robar sus tesoros.
 
-Para comenzar con la caravana, alquila un jinete de caravana. Puedes ver al jinete de caravana en la ventana J y montarlo.
+		Para comenzar con la caravana, alquila un jinete de caravana. Puedes ver al jinete de caravana en la ventana J y montarlo.
 
-Haz clic en la sección Comprar paquetes para ver los lugares a los que puedes viajar y comienza la entrega inmediatamente comprando un paquete. ¡Pero recuerda que los ladrones pueden matarte y robar tus paquetes!</Text>
+		Haz clic en la sección Comprar paquetes para ver los lugares a los que puedes viajar y comienza la entrega inmediatamente comprando un paquete. ¡Pero recuerda que los ladrones pueden matarte y robar tus paquetes!
+	</Text>
 	<Text key="4740545">XXX</Text>
-	<Text key="4740555">Para usar el kayak de remo, haz clic en el botón "Colocar en el agua" en la pantalla para dejar tu embarcación acuática en un punto adecuado en el agua.
+	<Text key="4740555">
+		Para usar el kayak de remo, haz clic en el botón "Colocar en el agua" en la pantalla para dejar tu embarcación acuática en un punto adecuado en el agua.
 
-Para controlar el kayak, acércate al timón y presiona la tecla E.
+		Para controlar el kayak, acércate al timón y presiona la tecla E.
 
-Los vehículos acuáticos pueden llegar a islas, luchar contra piratas e incluso realizar una caravana marítima.
+		Los vehículos acuáticos pueden llegar a islas, luchar contra piratas e incluso realizar una caravana marítima.
 
-Si deseas saber más sobre los marineros, ve al oficial del puerto y revisa el menú.</Text>
+		Si deseas saber más sobre los marineros, ve al oficial del puerto y revisa el menú.
+	</Text>
 	<Text key="4740565">XXX</Text>
 	<Text key="4740575">XXX</Text>
-	<Text key="4740585">Viajar a tierras lejanas a veces puede ser difícil, por lo que puedes viajar rápidamente al punto de portal más cercano y completar el resto del camino con la función de correr automática.
+	<Text key="4740585">
+		Viajar a tierras lejanas a veces puede ser difícil, por lo que puedes viajar rápidamente al punto de portal más cercano y completar el resto del camino con la función de correr automática.
 
-Si tu camino es largo, puedes obtener ganancias adicionales revisando las misiones en el tablero de misiones en el camino!</Text>
-	<Text key="4740595">Para abrir la Ventana de Clanes, puedes presionar la tecla O o entrar en el menú de contenido.
+		Si tu camino es largo, puedes obtener ganancias adicionales revisando las misiones en el tablero de misiones en el camino!
+	</Text>
+	<Text key="4740595">
+		Para abrir la Ventana de Clanes, puedes presionar la tecla O o entrar en el menú de contenido.
 
-Desde aquí, puedes crear un clan o unirte a clanes existentes.</Text>
-	<Text key="4740605">Los Rifts están cerca de las zonas de monstruos! Para explorar la zona del Rift, atraviesa zonas de monstruos que están por debajo de tu nivel o explora las zonas de monstruos más cercanas. Los Rifts contienen criaturas que vienen del cielo junto con haces que se extienden hacia arriba.
+		Desde aquí, puedes crear un clan o unirte a clanes existentes.
+	</Text>
+	<Text key="4740605">
+		Los Rifts están cerca de las zonas de monstruos! Para explorar la zona del Rift, atraviesa zonas de monstruos que están por debajo de tu nivel o explora las zonas de monstruos más cercanas. Los Rifts contienen criaturas que vienen del cielo junto con haces que se extienden hacia arriba.
 
-Para marcar los Rifts que encuentras, presiona la tecla M y usa la combinación CTRL - CLIC IZQUIERDO DEL MOUSE.
+		Para marcar los Rifts que encuentras, presiona la tecla M y usa la combinación CTRL - CLIC IZQUIERDO DEL MOUSE.
 
-¡En caminos largos, las misiones en el tablero de misiones siempre son una opción!</Text>
+		¡En caminos largos, las misiones en el tablero de misiones siempre son una opción!
+	</Text>
 	<Text key="4740615">XXX</Text>
 	<Text key="4740625">XXX</Text>
 	<Text key="4740635">XXX</Text>
@@ -11133,5 +11253,5 @@ Para marcar los Rifts que encuentras, presiona la tecla M y usa la combinación 
 	<Text key="4960030">Aumenta en un 30 % la ganancia de EXP de armas.</Text>
 	<Text key="496004">Potenciador de EXP de Profesión</Text>
 	<Text key="4960040">Aumenta en un 40 % la ganancia de EXP de profesiones.</Text>
-	
+
 </Localization>
